@@ -1,0 +1,798 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief view of Mr. Coleman his new-modell of church government, delivered by him in a late sermon, upon Job 11.20.</title>
+            <author>Byfield, Adoniram, d. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78088</idno>
+            <idno type="STC">Wing B6378</idno>
+            <idno type="STC">Thomason E307_8</idno>
+            <idno type="STC">ESTC R200340</idno>
+            <idno type="EEBO-CITATION">99861143</idno>
+            <idno type="PROQUEST">99861143</idno>
+            <idno type="VID">113271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113271)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E307[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief view of Mr. Coleman his new-modell of church government, delivered by him in a late sermon, upon Job 11.20.</title>
+                  <author>Byfield, Adoniram, d. 1660.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Ralph Smith, at the sign of the Bible in Cornhill, neer the Royall Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Adoniram Byfield by Wing.</note>
+                  <note>A reply to: Coleman, Thomas.  Hopes deferred and dashed.</note>
+                  <note>Annotation on Thomason copy: "Octo: 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coleman, Thomas, 1598-1647. --  Hopes deferred and dashed.</term>
+               <term>Church polity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113271:1" rendition="simple:additions"/>
+            <p>A BRIEF VIEW OF Mr. <hi>Coleman</hi> his New-Modell OF CHVRCH GOVERNMENT DELIVERED By him in a late Sermon, upon JOB 11. 20.</p>
+            <q>
+               <bibl>Greg. Naz.</bibl> In Eccleſiis ordo definvit, ut aliud quidem ſit occiſe, alii verò paſtores; aliud cum imperio praeſit, aliud imperio ſubſit: Aliud manuum, aliud oculorum: Aliud denique alterius membro corporis vicem ſuſtineat; quae membra ad aptam totius compoſitionem ac utilita<g ref="char:EOLhyphen"/>tem, vel inferiora ſunt, vel excellunt, &amp;c.</q>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Ralph Smith,</hi> at the ſign of the Bible in <hi>Cornhill,</hi> neer the <hi>Royall Exchange,</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:113271:2"/>
+            <pb n="3" facs="tcp:113271:2"/>
+            <head>A brief View of Mr. <hi>Coleman</hi> his new Modell of Church Govern<g ref="char:EOLhyphen"/>ment; delivered by him in a late SERMON upon <hi>Iob.</hi> 11. 20.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Et it not be offenſive unto you; that one (who is not ſatisfied with what you have delivered in your late Sermon, upon <hi>Job</hi> 11. 20.) ſhould, with ſubmiſſion to better judgements, offer unto you a few things fur<g ref="char:EOLhyphen"/>ther to be conſidered by you; the rather, becauſe you have occaſioned not onely ſome ſcruples to my ſelf upon the reading thereof, but to others alſo; and yet I do aſſure you, I am neither of the number of them, who (as your Epiſtle ſaith) approved your pains <hi>above commendation,</hi> nor <hi>diſliked them below deteſtation:</hi> What I conceive is therein warranted by Divine truth, I willingly ap<g ref="char:EOLhyphen"/>prove and aſſent thereunto: and where I ſtick (as queſtio<g ref="char:EOLhyphen"/>ning the truth) I now crave leave to offer my doubts to your ſecond thoughts.</p>
+            <p>You are perſwading to unity in the Church now miſerably diſtracted, and you ſaid that <hi>Government is eyed, as the onely help to the allaying of that trouble;</hi> and for the effectuall fur<g ref="char:EOLhyphen"/>thering of that work, you are pleaſed to lay down to the Ho<g ref="char:EOLhyphen"/>nourable Houſe ſeverall Rules, or Eſſayes; which I think be<g ref="char:EOLhyphen"/>ing weighed in the ballance of the Sanctuary, will be found too light, and cannot be made good by the word of God, the true touch-ſtone of all truth; but how ever my purpoſe (God willing) is to examine;</p>
+            <pb n="4" facs="tcp:113271:3"/>
+            <p n="1">1. Your Rules, and bring them to the Teſt, that we may try whether they conduce to the end for which you pro<g ref="char:EOLhyphen"/>pound them?</p>
+            <p n="2">2. We'll conſider, whether you have not unjuſtly faſtened upon ſome eminent Divines in the Aſſembly an uneven bya<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, which to you ſeemed to miſlead them in the ſame.</p>
+            <p n="3">3. Somewhat ſhall be added of your unbrotherlike ſligh<g ref="char:EOLhyphen"/>ting of the Aſſembly.</p>
+            <p>In all which I ſhall endeavour with as much brevity as I can to offer unto you my thoughts, and crave your re<g ref="char:EOLhyphen"/>ſolution.</p>
+            <p>I confeſſe it may peradventure ſeem ſuperfluous for me to<note place="margin">Mr. Gilleſpee. <hi>Utile eſt plures libros à pluribus fieri, diverſo ſtylo, non diver<g ref="char:EOLhyphen"/>ſâ fide, etiam de queſtionibus iiſ<g ref="char:EOLhyphen"/>dem, ut ad plu<g ref="char:EOLunhyphen"/>rimos res ipſa peacutivat, ad alios ſic, ad alios autem ſic.</hi> Au<g ref="char:EOLhyphen"/>guſt de Trin. lib. 1. cap. 3.</note> examine what you have ſaid, after a judicious tryall that is al<g ref="char:EOLhyphen"/>ready paſt upon your Rules by a Reverend and learned Di<g ref="char:EOLhyphen"/>vine: I am of his minde; who thought it was conducing to the benefit of the Church, that ſundry books ſhould be writ<g ref="char:EOLhyphen"/>ten by ſundry men (differing in ſtile, but agreeing in the ſame truth) about the ſame queſtions, that the ſubject inſiſted on might be made known to many, to ſome in one way, to o<g ref="char:EOLhyphen"/>thers in another.</p>
+            <p>The Rules or Eſſayes for unity and agreement produced by you I have peruſed, and do not ſee what clear reaſon they carry to make them ſerviceable to that end for which you offer them; and therefore how they ſhould be either <hi>helpfull to the worke, or uſefull to the workmen,</hi> as yet I ſee not: For in your ſecond Rule you ſeem to intimate, that there is no ſtrength in your Arguments, <hi>of which according to our light one may conclude different wayes:</hi> Sure I am, he that ſhould hold out the contrary to all your Rules, might upon as good ground call them Eſſayes for agreement and unity; as for inſtance, he that ſhould ſay,</p>
+            <p n="1">1. Eſtabliſh as much <hi>Jure Divino</hi> as may be.</p>
+            <p n="2">2. Do not ſtraighten Inſtitutions to expreſſe Scriptures.</p>
+            <p n="3">3. Let the Miniſters of <hi>Ieſus</hi> Chriſt be inveſted with the actuall exerciſe of that power and Government, which <hi>Ieſus Chriſt</hi> hath betruſted them withall.</p>
+            <p n="4">4. Let the Civill and Eccleſiaſticall power both of them act in their own ſphere, and not the one encroach upon the other: let it be equall Sacriledge to rob the Kingdom of Chriſt
+<pb n="5" facs="tcp:113271:3"/> of the power of the Civill Magiſtrate, and for the Civill Ma<g ref="char:EOLhyphen"/>giſtrate to ingroſſe all the governing power of the Church.</p>
+            <p>He that ſhould draw forth rules of this nature, ſhould as much further unity and agreement in the Church, and more, then he that ſhall adhere to your rules; therefore they ſeem to me, not to be conducing to the end, for which they are brought forth, but to the Rules themſelves.</p>
+            <p>In your firſt Rule, you inſiſt on two things: <q rend="inline">Firſt, you would have as few things eſtabliſhed <hi>Jure Divino</hi> as may be, thereupon you call to hold out the practiſe, but not that ground of the practiſe, two reaſons you give hereof: 1. Be<g ref="char:EOLhyphen"/>cauſe men differently principled may meet in one practiſe. 2. Becauſe it may be, will be of a larger extent then it muſt be.</q> In the ſecond thing you touch upon in this call, you lay forth the reaſon, which ſeemed to you to be the only cauſe that hindred union in the Aſſembly.</p>
+            <p>The firſt thing in the Rule you drive at, is, <hi>That at few things be eſtabliſhed</hi> Iure Divino <hi>as can well be:</hi> this Rule would have better become a <hi>Polititian</hi> then a <hi>Divine.</hi>
+            </p>
+            <p>Sir, Remember your place: a <hi>Divine,</hi> his part is to plead for as much as God hath laid down to be his right, reaſon would require you ſhould either plead for your Maſters right, or quit your ſtation to others, who ſpeak in the defence of their maſters juſt cauſe; are his aſhamed to plead our cauſe, take heed that threatning befall not you, <hi>Mar.</hi> 8. 38. Or are you afraid to appear for it? where is the cauſe of your fear? Au<g ref="char:EOLhyphen"/>thority commands you to ſearch for it, why ſhould you then ſhrinke to hold it forth unto them, and by them to the Church? all that I conceive you can plead, is this, It is not clearly held forth to your light, though others ſee it: have not theſe things been debated before you, and was there no weight in all thoſe debates: I preſume, you being a Member of the Aſſembly, cannot be ignorant what was there diſcuſſ'd in your hearing: I cannot think that you did <hi>Obturatis auribus,</hi> hearken there<g ref="char:EOLhyphen"/>unto: either then give place to their Votes, or in a rationall way bring forth your exceptions againſt them: <hi>Paphnucius</hi> indeed diſſented from the great <hi>Councell at Nice,</hi> but he brought for his Warrant of Divine Authority, and laid about him with the ſword of the word; that ſatisfied the reſt, and
+<pb n="6" facs="tcp:113271:4"/> ſo they all gave place unto him whileſt he pleaded Scripture for what he maintained; do you ſo, and then ſhall you wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your erring Brethren: Hitherto you have<g ref="char:punc">▪</g> only on the bare authority of your word, denied that which is maintained by ſo many learned men amongſt you here, and in famous Churches abroad, with ſtrength of Argument, and authority of the word; herein you cannot but ſee you are wanting to the cauſe which you would defend.</p>
+            <p>Why ſhould you be ſo ſhy of holding out of Divine right, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we not to endeavour a Reformation of Religion in <hi>Diſcipline and Government,</hi> as well as in <hi>Doctrine and Worſhip</hi> according to the word of God? Why ſhould we then be afraid of the <hi>Jus divinum</hi> in the one more then in the other? when I ſe<g ref="char:EOLhyphen"/>riouſly conſider with my ſelf, what may be the reaſon why you bogle at <hi>Ius Divinum</hi> in Government, and would not have it held out, I cannot but wonder; this was not the practiſe of Gods<g ref="char:punc">▪</g> Miniſters in former Ages, when the holy Prophets came either to quicken the people in the wayes of God, or to reduce them from idolatry<g ref="char:punc">▪</g> the firſt thing they did, was to hold forth unto them the Divine Authority, with which they were ſtrengthened to ſpeak, therefore<g ref="char:punc">▪</g> uſually they begun, <hi>Thus ſaith the Lord;</hi> and is not this the judg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment of all Reformed Churches, that in all matters of con<g ref="char:EOLhyphen"/>troverſie, the Church hath no determining power either without, beſides, or againſt the Scripture; whereby its ap<g ref="char:EOLhyphen"/>parent they conceive as much muſt be held forth in all contro<g ref="char:EOLhyphen"/>verſies<note place="margin">Willet. 3. con<g ref="char:EOLhyphen"/>trov. 4. queſt.</note> in the Church, to be by Divine right eſtabliſhed as may be.</p>
+            <p>Secondly, in this Rule you require, <hi>That the practiſe, but not the ground of the practiſe, be held out:</hi> Why both theſe two ſhould not be held out, when they may clearly be gathe<g ref="char:EOLhyphen"/>red up, I ſee not: for, will not the knowledge of the ground alwayes make way for the right ſetling and ordering of the practiſe? Some may look upon this poſition of yours, as upon a Propoſition which comes neer to the verge of Popiſh <hi>Fide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> implicita;</hi> becauſe it ſeems to drive at this, that men ſhould more depend upon the States or Churches authority then on Gods word which ought to be the ground of that Authority<g ref="char:punc">▪</g> for in your ſenſe, if they have the practiſe impoſed on them, they
+<pb n="7" facs="tcp:113271:4"/> muſt reſt therein, and never ſeek for any warrantable ground of the ſame, which will yield but ſmall comfort to any in that practiſe.</p>
+            <p>Sir, you know that kinde of <hi>Demonſtration</hi> hath ever been held in the Schooles to be moſt Scientificall, in which<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> men proceed from the <hi>Cauſes</hi> to the <hi>Effects;</hi> and from the eſſence of the thing to demonſtrate the paſſions of the ſame: And why ſhould not that rule hold here? For when men ſee the ground upon which the practiſe is impoſed, and from which it doth ariſe; then will they ever more willingly yield unto the practiſe, and better be eſtabliſhed in the ſame. So have the Church formerly thought, and therefore were ever careful to hold forth to the world the ground of their practiſe; when the <hi>Orthodox</hi> had to do with the <hi>Arians</hi> in <hi>Conſtantius</hi> his time, and could come to no accord with them, they ſent from the Councell to the Emperour twenty of their Opinion, to repreſent what they held unto him; but withall, they charged them to confirm the Opinion of the Councell by the light of<note place="margin">Soz. 4. 17. Conc. Arimin.</note> the Scripture. Here both the practiſe, and the grounds upon which they proceeded, were held forth together: And why we ſhould not do the like in this Age, I know not.</p>
+            <p>The Reaſons by which you ſeem to ſtrengthen your ſelf herein, are two: Firſt, becauſe <hi>Knowledge of that practiſe alone will gather more:</hi> Nay, Secondly, <hi>Men differently principled may meet in one practiſe:</hi> You know who ſaid of old, if men live exactly accordingly to the principles of their own Religion, though they agree not in the ſame truth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they might be ſaved. Me thinks in this phraſe of yours, you come neer him: I would not have that Haereticall ſpirit, long ſince layd in the duſt, and exploded by the Church, raked up again by you.</p>
+            <p>Secondly, You ſay <hi>it may be, will be of larger extent then it muſt be:</hi> Suppoſe that upon prudentiall conſiderations, the Rule is carried no higher then <hi>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may be,</hi> yet why ſhould not the ground of this <hi>it may be,</hi> be held out as well as the pra<g ref="char:EOLhyphen"/>ctiſe? Can there be more Lordly and Domineering power exerciſed over the Conſciences of men, then to preſcribe unto them in maters of the greateſt concernment, the practiſe of that of which there is no ground; o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ground thereof is not fit
+<pb n="8" facs="tcp:113271:5"/> to be held out unto the people. In your third Rule, you will call that a <hi>Domineering Power,</hi> which hath no boundary, do you not in this then make way for ſuch an Arbitrary power? A practiſe without a ground, hath no bounds but in the wills of men.</p>
+            <p>In the cloſure of this Rule, you lay forth the Reaſon which to you ſeemed to be the cauſe <hi>that hindred <g ref="char:V">Ʋ</g>nion in the Aſ<g ref="char:EOLhyphen"/>ſembly:</hi> This ſhall be, God willing, taken into conſideration, (when I have viewed all your Rules) in the laſt place di<g ref="char:EOLhyphen"/>ſtinctly by it ſelf: And ſo I come to your ſecond Rule;</p>
+            <p>In which you mention many things, which becauſe they have no neceſſary dependence one upon another, Ile take them up as they fell from your pen. In generall, I ſay of this Rule, that you do not hold out any thing diſtinct from the for<g ref="char:EOLhyphen"/>mer: I take it onely for an Explanation of what you meant by <hi>jus Divinum,</hi> viz. That which onely is contained in ex<g ref="char:EOLhyphen"/>preſſe and clear Scriptures. But more particularly to the Rule, in which the firſt thing you fall upon, is, <hi>That Institu<g ref="char:EOLhyphen"/>tions ſhould have clear Scriptures:</hi> Wherein you drive at this, that no practiſe without an inſtitution expreſſed in clear Scrip<g ref="char:EOLhyphen"/>tures, muſt be a Rule to guide the Church by. How this Rule can be uſefull for Government in the Church, I ſee not: But if it ſhould be granted to be good Divinity, it would not more ſtrongly conclude againſt the Presbyteriall Govern<g ref="char:EOLhyphen"/>ment, then it doth for the Anti-Sabbatarians, Anabaptiſts, and other Sectaries, &amp;c. who call for inſtitutions expreſſed in clear Scriptures for many things, which cannot be brought forth: yet the practiſe of them is very lawful &amp; agreeable to the Word, and neceſſary in the Church. But Sir, Are there not many things of Divine right, of whoſe formall inſtitution we read not, where have you any formall inſtitution or precept expreſſed in clear Scriptures, for Womens receiving the Sa<g ref="char:EOLhyphen"/>crament of the Lords Supper, of Adminiſtring the Sacra<g ref="char:EOLhyphen"/>ment of Baptiſme in water: And yet if the inſtitution of both theſe may be gathered out of practiſe recorded in Scripture, why may it not be admitted? though we read not of the inſtitution <hi>totidem verbis:</hi> 'Tis true, we reade of an injun<g ref="char:EOLunhyphen"/>ction given by Chriſt to his Church to Baptize, but whether in Water, or any other Liquor, it is not particularly let down:
+<pb n="9" facs="tcp:113271:5"/> yet becauſe the Adminiſtration of all Baptiſmes recorded in the Scriptures was by water, it is warrant enough for the Church now to uſe water in the Adminiſtration of it, and who can juſtly except againſt it? Where doth the Scrip<g ref="char:EOLhyphen"/>ture ſay expreſly that there ſhall be particular Congregati<g ref="char:EOLhyphen"/>ons, to one of which every one that receiveth the Word ſhould have reference: yet the diſtinguiſhing of Congrega<g ref="char:EOLhyphen"/>tions gathered from the practiſe of the Church in the Apo<g ref="char:EOLhyphen"/>ſtles times, and appropriating officers to them cannot be re<g ref="char:EOLhyphen"/>jected as unwarrantable, but is held neceſſary by all. Ac<g ref="char:EOLhyphen"/>cording to your Divinity herein I deſire to know of you, why the government of the Church ſhould belong to the civill Magiſtrate, (as you plead) ſeeing I finde no where any precept or inſtitution laid forth in cleare Scriptures for it. That which is warranted in the Scripture, to have bin the common practiſe of the Church in the Apoſtles times, no doubt came from the Apoſtles. The Apoſtles ordained Dea<g ref="char:EOLhyphen"/>cons, <hi>Act.</hi> 6. ſo did they Elders in every Church, <hi>Act.</hi> 14. 23. in whoſe ordinations they uſed impoſition of hands; but where doe we read of any expreſſe precept in clear Scriptures com<g ref="char:EOLhyphen"/>commanding any of theſe? yet who ſhall be ſo bold as to que<g ref="char:EOLhyphen"/>ſtion the Apoſtles practiſe in all theſe, or the Churches con<g ref="char:EOLhyphen"/>tinuing of them at this day, by vertue of the Apoſtolicall practiſe that went before, and gave light unto the Church therein: Did not the Apoſtles in all things deliver that to the Church, which they received from the Lord, 1 <hi>Cor.</hi> 11. 23. and did they not by Chriſts command teach men to keep what Chriſt commanded them, <hi>Mat.</hi> 28. 20. upon which ground <hi>Tertullian</hi> ſaid well<g ref="char:punc">▪</g> 
+               <hi>The Apoſtles did not chooſe of their own</hi>
+               <note place="margin">Apoſtoli nihil ex ſuo arbitrio elegcrunt, quod ind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terent, ſed acceptam à Chriſto diſci<g ref="char:EOLhyphen"/>plinam fidelite nationibus aſ<g ref="char:EOLhyphen"/>ſignaverunt. Tert. de praeſcr. adv. harcſes.</note> 
+               <hi>free-will what they ſhould bring in, but they faithfully ap<g ref="char:EOLhyphen"/>pointed to the Nations the Diſcipline which they received of Chriſt.</hi> And I ſee no reaſon why we ſhould not beleeve that the holy Apoſtles were guided by the Divine inſtinct of the Spirit, as well in the practiſe impoſed by them on the Churches, as in the delivering of the Goſpell unto them; which gave occaſion to the Apoſtle to ſay, <hi>If any man thinke himſelfe to be a Prophet, or ſpirituall, let him acknow<g ref="char:EOLhyphen"/>ledge that the things that I write unto you are the Comman<g ref="char:EOLhyphen"/>dements of the Lord,</hi> 1 Cor. 14. 37.</p>
+            <p>You adde further <hi>that an occaſionall practiſe, or a phraſe
+<pb n="10" facs="tcp:113271:6"/> upon the by, or the naming of a thing, are too weake grounds to uphold ſuch a building;</hi> I ſay, examples of the Church<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> practiſe in the Apoſtles times, and hints from their writing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doth ſufficiently warrant us for the inſtitution of ſuch things for the practiſe of the Apoſtolicall Church ſets out plainly be<g ref="char:EOLhyphen"/>fore us, that there was an inſtitution of ſuch things as are read in their practiſe, albeit <hi>in terminis terminantibus</hi> we read not of it <hi>Ergo,</hi> We read of <hi>Elders</hi> at <hi>Ieruſalem, Act.</hi> 11. which argues that they were ordained, though we read not how and where they were ordained: becauſe the <hi>Apoſtles</hi> wri<g ref="char:EOLhyphen"/>ting after they had called them, ſpeaks of them occaſionally, they that ſtand preciſely upon inſtitutions muſt confeſſe what <hi>Socinus</hi> ſaith, <hi>the Apoſtles practiſe is not our rule;</hi> ſuch muſt hold what they did was onely for thoſe times, and they grant what they did then, is lawfull now to be done, but not neceſſary; concluſions of this nature muſt neceſſarily follow upon your premiſes, and what will follow upon them, I wiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you would in time conſider.</p>
+            <p>Then you tell us, <hi>that you could never ſee two co-ordinate governments exempt from Superiority and Inferiority;</hi> this you looke upon as a Monſter which cannot be <hi>in one State,</hi> nei<g ref="char:EOLhyphen"/>ther is it as you thinke exemplified in Scripture. Sir, for ought I know here you fight againſt your owne ſhadow, who ſaith that two governments which are exempt from ſu<g ref="char:EOLhyphen"/>periority and inferiority are in one State: Indeed two go<g ref="char:EOLhyphen"/>vernments are aſſerted, one for the Common-wealth, the o<g ref="char:EOLhyphen"/>ther for Church affaires, the Eccleſiaſticall governours have ever judged themſelves inferiour to the civill Magiſtra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, (to whom they have yeelded all due ſubjection and obe<g ref="char:EOLhyphen"/>dience, in things proper to his authority to command) nay to contradict <hi>the civill Magiſtrates</hi> commands, they have<note place="margin">Atha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſ. Ep. ad Imp. Con<g ref="char:EOLhyphen"/>ſtantium.</note> judged it <hi>madneſſe,</hi> yet in the ſphere of their owne govern<g ref="char:EOLhyphen"/>ment they moved acoording to the patterne they received from the Lord, the civill Magiſtrate did not breake in op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n them, nor did they ambi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iouſly ſeeke to exceed the bounds appointed to them by the Lord.</p>
+            <p>Againe, you ſay, that <hi>in Scripture you finde no ſuch thing,</hi> I beſeech you what were the governments appointed in <hi>Iſrael,</hi> whereof ſome were appointed for ordering the King<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="11" facs="tcp:113271:6"/> affaires, or the chiefe affaires of the Common wealth, the other were appointed for matters of the Lord, were not there two diſtinct governments, each of them handling what was proper to them; and whether there were two diſtinct Courts of judicature, in which each of them took cognizance of the matters proper to them, but one, (as without any ground from that Text ſome conceive?) ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſure it is, here were two ſeverall officers delegated to take notice of the ſeverall queſtions that ſhould come before them: ſo they were diſtinct governments, whilſt each of them judged or handled what was proper to his place, and might you not obſerve ſo much, and is it not to be found in that inſtance recorded, 2 <hi>Chron.</hi> 19. I ſay no more to you herein, onely I deſire you you may remember what was the vote of the Aſſembly in this point; Was it not, <hi>That Ieſus Chriſt hath inſti<g ref="char:EOLhyphen"/>tuted a government and governors Eccleſiaſtical in the Church;</hi> This Vote paſt in the Aſſembly, <hi>Nemine contradicente,</hi> it ſeems then Mr. <hi>Coleman</hi> had not a tongue to ſpeake againſt it.</p>
+            <p>You goe on, and fall upon two places on which Cenſures of the Church ever hath been grounded; as for one of them, <hi>it takes no hold on your conſcience, and you wonder that the other ſhould of any;</hi> I have heard (but how true I know not) that ſome Souldiers have their bodies ſhot-free, but that any ſhould have his Conſcience Scripture proofe, to me it ſeems very ſtrange, eſpecially knowing what is ſaid, <hi>Heb.</hi> 4. 12. Why may it not then be mighty in operation to you as well as unto another? But Sir, though you c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt off both theſe places as not countenancing Excommunication in the leaſt, yet you cannot be ignorant that the Aſſembly hath re<g ref="char:EOLhyphen"/>ſolved Excommunication, and upon a full debate from <hi>Mat.</hi> 11. they have proved it; as for the other place, they did take that for granted, that it mentioned Excommunication, ſome debate there was from that place how farre the peoples pre<g ref="char:EOLhyphen"/>ſence was required in the execution of it; if you aſſented not to that debate, why did you not according to the Ordi<g ref="char:EOLhyphen"/>nance by which you ſit in the Aſſembly, enter your diſſent.</p>
+            <p>As for the places themſelves (which you ſay take no hold of your conſcience) I am ſure that which you ſay againſt the common received conſtruction of them, muſt take leſſe hold
+<pb n="12" facs="tcp:113271:7"/> on the conſcience of the reader: for whatſoever you ſay againſt the received opinion (which is juſt nothing) <hi>eâdem facilitate refellitur, quâ aſſeritur:</hi> when you lay downe the judgement backt with ſome reaſons (for I know no man that is bound to ſubmit to your naked affirmation, un<g ref="char:EOLhyphen"/>leſſe it were clothed with more truth) it wilbe time enough to anſwer them, hitherto you have added none: onely your margent in that place <hi>ſends us to all books on this ſubject writ<g ref="char:EOLhyphen"/>ten heretofore, or lately;</hi> in obedience to your command I have peruſed ſome, and Ile tell you what they ſay.</p>
+            <p>The ancients tell us in their books of no ſuſpected credit, 1. That Excommunication was in uſe in their time, <hi>Tertull.</hi>
+               <note place="margin">See Cyp. ep. 40. et 39. et 41. et 62, &amp;c. Quod ſaepe in eccleſiis vide<g ref="char:EOLhyphen"/>mus, peccaverit quodlibet quiſ<g ref="char:EOLhyphen"/>piam, qui prae<g ref="char:EOLhyphen"/>ſidet populo et regit eccleſiaſti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am diſciplinam ejicit eum de congregatione ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nctoram. Orig. Hom. 11. in Ier.</note> Ep. ca. 39. the place is cleare and evident, ſetting down how far it extended, by whom it was exerciſed, it was an act of judicature which paſt on ſuch Members of the Church, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> walked not according to the Rule of the Goſpel, by the Pres<g ref="char:EOLhyphen"/>byters: which was ſo formidable, that it was accounted <hi>pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ludium futuri judicij, a giving notice before hand of the laſt judgement.</hi> In <hi>Cyprian</hi> there are many places in which he makes mention of this cenſure: <hi>Origen</hi> likewiſe mentions it in ſeverall places, as <hi>Hom.</hi> 11. in <hi>Jere.</hi> he ſayes, <hi>Which we ſee often to fall out in the Churches: if any man offend in any thing, he that Rules the people and governs Eccleſiaſticall diſ<g ref="char:EOLhyphen"/>cipline, caſts him out from the Congregation of the Saints.</hi>
+            </p>
+            <p>Again he ſhews the uſe of it, Hom. 10. in Ezek. So Hom. 7. in Ieſaiam. et Trat. 6. in <hi>Math.</hi>
+            </p>
+            <p>Secondly, as theſe aſſert the uſe of it, ſo do they alſo ground that Eccleſiaſticall cenſure upon that place which you <hi>admire ſhould take hold of any mans conſcience,</hi> Mat. 18. <hi>Cy<g ref="char:EOLhyphen"/>prian</hi> forbids communion with hereticks either at talke or conference, and why? <hi>ſunt illi de eccleſia profugi, quia ſcrip<g ref="char:EOLhyphen"/>tum eſt, ſi autem et eccleſiam contempſerit, ſit tibi tanquam Ethnicus et publicanus:</hi> That place tels us that he would have a ſeperation from hereticks who forſake the Church, and this he proves by <hi>Mat.</hi> 18. whereby it appears he grounded it on the Text. Ep. 55. and Ep. 76. ſpeaking of the ſame ſub<g ref="char:EOLhyphen"/>ject, he brings forth the ſame teſtimony: <hi>Origen</hi> enquiring after the meaning of the Text now before us: <hi>ſit tibi tanquam ethnicus,</hi> &amp;c. acknowledges it is a caſting out of the Church.
+<pb n="13" facs="tcp:113271:7"/> Tract. 6. in Math. and Hom. 7. in Ieſaiam, <hi>tertio admonitum jubet ab eccleſiae corpore reſecari per eccleſiae praeſides:</hi> Where he ſpeaks of a threefold admonition (before the party be caſt off) ſo doth that Text, then he tels us what followed on it: <hi>viz.</hi> caſting out of the Church; laſtly he addes by whom it was done, the Governours of the Church were the men by whom it was exerciſed. For latter Divines, I appeal to any that hath peruſed them, whether may not he that ſhall ſee their conſtant expreſſion of both theſe Texts, rather wonder at the ſingularity of your opinion in ſtriving againſt the gene<g ref="char:EOLhyphen"/>rall ſtream of all Orthodox interpreters of theſe places, then you ſhould wonder at any ſo expounding them, the books which I have ſeen gives me warrant to ſay ſo much: All which are ſo numerous and full for us, that it would require a volume to recite them all, therefore I paſſe them over, knowing you cannot deny the truth of this my objection.</p>
+            <p>Having pleaded againſt inſtitutions, you add <hi>you ſee not any one act of Government in the whole Bible performed:</hi> I be<g ref="char:EOLhyphen"/>ſeech you what is the meaning of that place, <hi>Tit.</hi> 1. 5. I have ever underſtood ordination of Miniſters as a main act of Go<g ref="char:EOLhyphen"/>vernment, this was delegated by the Apoſtle to the Evange<g ref="char:EOLhyphen"/>liſt <hi>Titus,</hi> which he faithfully performed, and was not that act of Government performed in every Church, <hi>Act.</hi> 14. 23.</p>
+            <p>Again you aske, <hi>how can it be evinced that a ruling Elder is an inſtituted officer?</hi> a man would have thought that you who plead that the whole work of Government of the Church, is caſt upon the Civill Magiſtrate, ſhould not have been ſo hard hearted towards ruling Officers, as to give them no place in Church Government: Remember you not what the Vote of the Aſſembly was in this, that <hi>It is agreeable to, and warranted by the word of God, that ſome others beſide the Miniſters of the word be Church Governours to joyne with the Miniſter in the Government of the Church, which Officers re<g ref="char:EOLhyphen"/>formed Churches commonly call Elders:</hi> To this Vote you have entred no diſcent, and yet can at your pleaſure ſpeak againſt it. I pray you againe conſider how fairely herein you deale with the Aſſembly, in which the ſeverall places of <hi>Paul</hi> were underſtood and conſtrued upon long debate for the ſame Of<g ref="char:EOLhyphen"/>ficers, 1 <hi>Tim.</hi> 5. 17. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> 12.
+<pb n="14" facs="tcp:113271:8"/> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Cor.</hi> 12. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: All theſe were cleare<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up in the Aſſembly, to be amongſt thoſe, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> why may not that Text be tranſlated, whom he hath <hi>inſtituted</hi> in the Church? 1 <hi>Cor.</hi> 12. 28. one of theſe places <hi>Rom.</hi> 12. tels us of a Ruler diſtinct from a teacher, that of 1 <hi>Cor.</hi> 12. ſpeaks of Governours in the Church, diſtinct alſo from other Officers there mentioned by him, and this was then, when no Civill Magiſtrate was Chriſtian; the third 1. <hi>Tim.</hi> 5. 17. is a mandatory place, commanding the Church how to uſe them, and what to do to them; even to give the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> double honour: is not this enough, that the Scriptures men<g ref="char:EOLhyphen"/>tions their Office in the phraſes and titles, wherein they ſpeak of them, and then tell us in what account they are to be had. When God hath by his Apoſtle ſaid, that thus and thus they ſhalbe honoured, who ſhall queſtion whether God would have ſuch Officers in the Church, or no? and for mine owne part, that of 1 <hi>Cor.</hi> 12. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is to me warrant enough for inſtitution.</p>
+            <p>Theſe were Officers called to aſſiſt the Miniſter, in watch<g ref="char:EOLhyphen"/>ing over the lives of the Members of their ſeverall flocks; for is it not as needfull, that there ſhould be ſome whoſe charge is to ſee that men live according to the Rule, as th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> there ſhould be others to teach the Rule, and others to ſee that the neceſſities of ſuch as were in want, ſhould be ſupplied<g ref="char:punc">▪</g> Therefore Chriſt hath appointed the Paſtor to teach, Elde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to aſſiſt in Government, and the Deacon to ſce to the poor.</p>
+            <p>You quarrell the <hi>inſtitution of this Officer;</hi> ſomewhat hath been already ſpoken of inſtitutions, to which the Reader is to be referred: I onely here add this; We reade of many par<g ref="char:EOLhyphen"/>ticular Officers of the Church, recorded in the Scriptures, as <hi>Rom. 12. 1 Corin. 12. Epheſi.</hi> 4. but their inſtitution is not formally mentioned in them, yet we queſtion not the Officers. Where do we reade of a formall inſtitution of an Evangeliſt, or a Prophet, of a Paſtor or Teacher? We read of all theſe a<g ref="char:EOLhyphen"/>mong the gifts &amp; adminiſtrations given by Ieſus Chriſt for his Church; why ſhould any ſtartle at a ruling Elder, more then at theſe, or call for their inſtitution, more then for the inſti<g ref="char:EOLhyphen"/>tution of the other? The Apoſtle tels us that Chriſt hath ap<g ref="char:EOLhyphen"/>pointed Paſtors and Teachers, who can bring forth their in<g ref="char:EOLhyphen"/>ſtitution;
+<pb n="15" facs="tcp:113271:8"/> why ſhould we ſeek for the inſtitution of Elders more then of other Officers, eſpecially when the Apoſtle ſpeakes of the reſpect due unto them, but intends not to ſpeak directly of the Officers themſelves in that place 1 <hi>Tim.</hi> 5. 17. and elſewhere reckoning up the Officers of the Church, he names them; is not that ſufficient to us?</p>
+            <p>Sir, were there no other argument to plead for theſe ruling Officers in the Church; yet this is of ſome weight with me, that as I find they are mentioned, to have been in the Apoſto<g ref="char:EOLhyphen"/>licall Church: ſo have they continued when in ſucceeding ages the Church was in puri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie: here could I bring forth unto you variety of teſtimonies; by which it may appeare,</p>
+            <p n="1">1. That in the ancient Church there were ſuch Officers.</p>
+            <p n="2">2. That they were diſtinguiſhed from them that taught in the Church.</p>
+            <p n="3">3. That they were diſtinguiſhed alſo from other of the people.</p>
+            <p n="4">4. That they had a hand in that Government of the Church, all which reverend Antiquity makes good, but I for<g ref="char:EOLhyphen"/>bear to weary you with inſtances; theſe things being abun<g ref="char:EOLhyphen"/>dantly of late cleared up in oppoſition to the Prelates, who engroſſed all Government into their owne hands, to which Treatiſes I referre the Reader: Onely before I paſſe from hence, I deſire it may be taken into conſideration, if we caſt out this Officer from the Church, how we ſhall divide our ſelves from other well reformed Churches, to whom we have ſolemnly vowed to God to come as neer as we can. Now what Church is there among them, that holds not out theſe Officers as eſtabliſhed by divine authority? If learned <hi>Cal<g ref="char:EOLhyphen"/>vin,</hi> acute <hi>Beza,</hi> ſolid <hi>Za<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> famous <hi>Junius,</hi> &amp;c. were all theſe or any of them to reade your Sermon; would they not wonder at your judgement, and plead againſt you for theſe Church Officers<g ref="char:punc">▪</g> I ſay nothing of the advantage that you give to Papiſts on the one ſide, to the Prelaticall party on the other, all which will not a little triumph in that ſingularity of your fancy in this.</p>
+            <p>And laſtly let me (beſides all the light both of the ancient and preſent Church, given to theſe Officers) put you in mind what paſt by the 32. learned men appointed firſt by <hi>Hen<g ref="char:EOLhyphen"/>ry</hi>
+               <pb n="16" facs="tcp:113271:9"/> 8. and afterwards by that pious Prince <hi>Edward</hi> 6. Whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they drew up a draught of the reformation of Eccleſiaſtica<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> lawes, they denied not theſe Officers a place in the Gove<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment of the Church; but tell us, <hi>when the Sermon and eve<g ref="char:EOLhyphen"/>ning</hi>
+               <note place="margin">De divinis offi<g ref="char:EOLhyphen"/>ciis ca. 10.</note> 
+               <hi>prayer is ended on the Lords-day, the Miniſter ſhall <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſult</hi> cum ſenioribus, <hi>with his Elders about ſuch, whoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ners are reported to be evill, and their lifes found flagitious: Firſt, in a brotherly way of charity according to Chriſts c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mand in the Gospel they ſhould deal with them, if they her<g ref="char:EOLhyphen"/>kened to their admonition, then thankes are to be given to God; if they perſiſted in their ſinne, they were as the Goſpel preſcribes, to be puniſhed:</hi> Here are they named by their names <hi>ſeniores,</hi> (who are diſtinguiſhed by them from <hi>Eccleſiarum gardiani,</hi> or Church-wardens of whom they ſpeak diſtinctly afterwards,) Secondly, they make mention of their office, which is to aſſiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Miniſter in watching over the lives of the flock, and ta<g ref="char:EOLhyphen"/>king order with ſuch as walk unruly, or not anſwerable to the Goſpel: And what ſaid the Aſſembly more of theſe Of<g ref="char:EOLhyphen"/>ficers (againſt whom you plead) then hath been held forth both by the Holy Scriptures, and Church of God in ſeverall ages, all which are ſlighted by you; but whether it wilbe more ſafe to adhere to Goſpel-light, when we are compaſſed with ſuch a cloud of witneſſes, or to go alone with you, let all the Church judge: To me it is enough, that the Scriptures mentions theſe Officers, the ancient Church acknowledged and received them, and the preſent beſt reformed Churches owne them, and may not all this evince to any of a moderate diſpoſition, that an Elder is an Officer in Chriſts Church? In your third Rule, you <hi>deſire no more burden of<g ref="char:punc">▪</g> Government, be laid upon the ſhoulders of Miniſters, then Chriſt hath laid upon them, and the Holy Ghoſt hath clearly given them:</hi> In the firſt place I take notice here, that you moderate what you ſaid in the cloſure of your former Rule: Where you affir<g ref="char:EOLhyphen"/>med, that <hi>you ſee not any one Act of Government in the whole Bible performed;</hi> Here your marginall note would incuſe that, wherein you tell us, you <hi>take Government for the correcting part;</hi> but let us try, whether even that part hath not lien <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<g ref="char:EOLhyphen"/>on ſuch as preached the word: Did not the Apoſtle <hi>deli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er up to Satan, Hymeneus, and Alexander, 1 Tim.</hi> 1. 20<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:113271:9"/> which phraſe Excommunication i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſtantly underſtood; tis true,<note place="margin">
+                  <hi>Tradere Satanae aliquem eſt il<g ref="char:EOLhyphen"/>lum ex <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ccleſia ejicere. Tert. de pudicitia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> qui ab Eccleſia re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>puuntur, qua Chriſti eſt cor<g ref="char:EOLhyphen"/>pus, tanquam peregrini &amp; a<g ref="char:EOLunhyphen"/>lieni a Dei cor<g ref="char:EOLhyphen"/>pore dominatui Diaboli tra<g ref="char:EOLhyphen"/>duntur.</hi> Hilar. in <hi>Pſal. 118.</hi>
+               </note> ſome (eſpecially of the Greek Fathers) adde, that when any were given up to Satan then ſome extraordinary judgement followed upon the parties ſo delivered up; yet all agree in this, that none but Excommunicated perſons were delivered up to <hi>Satan:</hi> here then was an act of Government performed by <hi>Paul;</hi> and who would not think that <hi>Paul</hi> was a Miniſter of the Goſpel, yet ex<g ref="char:EOLhyphen"/>erciſed a corrective part of Government, and who dare ſay, that Ieſus Chriſt indued him not with power to inable him thereunto. Nay, not onely did he exerciſe that corrective part of Govern<g ref="char:EOLhyphen"/>ment himſelf, but he requires the <hi>Corinthians</hi> to do the like to the inceſtuous perſon, 1 <hi>Cor.</hi> 5. 5.</p>
+            <p>But to the words of your Rule; you adviſe <hi>to lay no more bur<g ref="char:EOLhyphen"/>then of Government upon the ſhoulders of Miniſters, then Christ hath laid upon them, and to let them have no more hand therein, then the holy Ghoſt clearly gives them;</hi> albeit, you would be thought to expreſſe your ſelf warily in this advice, yet I gueſſe at your mean<g ref="char:EOLhyphen"/>ing by that which follows; you ſhould have ſpoken out plainly thus, Let the Miniſters have no hand at all in the burthen of the Government, for ſo you expreſſe your ſelf afterwards, <hi>give us Doctrine, and take you government:</hi> Its true, Miniſters have other work enough, this is not denied; and therefore Chriſt hath added others to them in the work of Government, by whoſe advice and furtherance they ſhould be aided therein; ſhall I once more re<g ref="char:EOLhyphen"/>member you that the Aſſembly Voted, <hi>That the Paſtor as a Paſtor hath a ruling power over the flock:</hi> What? have you reſolved to be <hi>Anti-Synodicall</hi> in all your Rules, and yet ſit whileſt theſe Votes paſſe, and not appear againſt them in entering your diſſent, and now be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch out what you pleaſe againſt theſe Votes? none of which paſt without long debates and ſerious conſideration of the queſtion in hand; aſſuredly a more favourable conſtruction of the Aſſembly proceedings would better have become a Member of the Aſſembly.</p>
+            <p>To your Aſſertion; how plainly and clearly the burthen of Go<g ref="char:EOLhyphen"/>vernment is laid upon the Miniſters, hath been before ſhewed to you: I ſhall only adde, that he that doth deny the ruling power of a Miniſter in his charge (ſo clearly held out in Scriptures) had need to bring more convincing grounds, then theſe fetched either from his own unfitneſſe for the work, or other mens abuſe of their power by ingroſſing too much, when ever they had a hand
+<pb n="18" facs="tcp:113271:10"/> in any, which yet are the onely grounds you<g ref="char:punc">▪</g> inſiſt upon.</p>
+            <p>For the former; whileſt you plead your own unfitneſſe for the work, me thinks you expreſſe a great deal of pride, when yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would make a ſhew of humility: conſider your words again<g ref="char:punc">▪</g> 
+               <hi>Might</hi> I <hi>meaſure others by my ſelf, and I know not why</hi> I <hi>may not;</hi> Is not this your meaning? you have reaſon to think as meanly of others, as you do of your ſelf; but the Apoſtle, <hi>Phil.</hi> 2. 2, 3. exhor<g ref="char:EOLhyphen"/>ting to Unity, to be of one accord, and one judgement, gives this rule; <hi>in lowlineſſe of minde let each esteem others better then him<g ref="char:EOLhyphen"/>ſelf:</hi> in your Epiſtle you are more ingenious, there you ſpeak con<g ref="char:EOLhyphen"/>fidently of ſome Reverend men who diſtaſte theſe paſſages in your Sermon, <hi>that their wiſdom and humility may be truſted with as large a ſhare of Government as themſelves deſire.</hi>
+            </p>
+            <p>I grant that the work is great, and the burthen heavy, and do<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 Cor. 2. 16.</note> not you call to minde who ſaid it, <hi>Who is ſufficient for theſe things?</hi> But I hope you will not thence infer, Therefore let no man meddle with them.</p>
+            <p>For the latter, <hi>viz.</hi> the abuſe of that power<g ref="char:punc">▪</g> That power which you cannot weaken by ſtrength of Argument, your indeavour to diſparage, by odious compariſons of it with <hi>Prelacy and Papacy,</hi> as being <hi>that which plunged the Chriſtian world into confuſion and blood for many hundred yeers paſt;</hi> all this you ſeem to impute rather to the nature of the power, then to the abuſe of the ſame. <hi>You call it a domineering power, a Prelaticall honour, therefore you would have it bounded, that it might be ſaid, Hitherto ſhall you come, and here ſhalt thou ſtay thy proud wayes.</hi>
+            </p>
+            <p>Sir, theſe Rhetoricall flowers (ſuch as they are) might have paſ<g ref="char:EOLhyphen"/>ſed with ſome for an ornament to <hi>Martine</hi> his late <hi>Eccho;</hi> but how harſhly they ſound in a <hi>Sermon</hi> to the <hi>Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons</hi> at a Monethly Faſt by Mr. <hi>Coleman,</hi> an applauded Preaches of the Goſpel, let the Reader judge; how deeply all this reflects upon the Government held in all the Reformed Churches, I for<g ref="char:EOLhyphen"/>bear to mention. Your Argument is good againſt the Popes and Prelats ſole power in juriſdiction, which they ingroſſed to them<g ref="char:EOLhyphen"/>ſelves, <hi>Lording</hi> it not only over the people, but over their fellow<g ref="char:EOLhyphen"/>brethren, diveſting them of that right and power committed equal<g ref="char:EOLhyphen"/>ly to all Miniſters: this we complain of as much as your ſelf: but whileſt you would make an Argument of this, your inference is as weak, as your compariſon is odious. It is as if you ſhould ſay, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="19" facs="tcp:113271:10"/> 
+               <hi>Diotrephes</hi> loved the preheminence among his fellow-labou<g ref="char:EOLhyphen"/>rers, abuſing the power betruſted to him, by ingroſſing it to himſelf, therefore let not Miniſters have a hand in ruling any more, leaſt they die as <hi>Diotrephes</hi> did. The Apoſtle preſcribes no ſuch way of cure, all that he infers upon it, is only this, 3 <hi>Ioh. 11. Brethren follow not that which is evill, but that which is good.</hi>
+            </p>
+            <p>But Sir, I deſire in earneſt to know of you: Whether it was Church Government, that brought forth thoſe hideous inconveni<g ref="char:EOLhyphen"/>ences (you have mentioned) or was it the uſurping power of Pre<g ref="char:EOLhyphen"/>lats and Popes ſheltered under the name or vizard of Church-Go<g ref="char:EOLhyphen"/>vernment, that thus imbrued the world in that blood, and raiſed thoſe combuſtions? Had you followed in this queſtion that grave Counſell, given of old by <hi>Irenaeus,</hi> you might have learned better;<note place="margin">
+                  <hi>In aliqua que<g ref="char:EOLhyphen"/>ſtione diſceptae<g ref="char:EOLhyphen"/>tione ſuſcepta<g ref="char:cmbAbbrStroke">̄</g>, in antiquiſſi<g ref="char:EOLhyphen"/>mas Eccleſias recurrendum; a quibu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quid de praeſenti que<g ref="char:EOLhyphen"/>ſtionc judican<g ref="char:EOLhyphen"/>dum ſit, certum &amp; reliquidum eſſet.</hi> Iren. adu. haer. lib. 3. 4.</note> His Counſell was, <hi>When any diſputation about any queſtion did ariſe, that men ſhould have recourſe to ancient Churches, by whoſe practiſe they might be informed, what to think of the preſent queſtion:</hi> Had you conſulted with the beſt and pureſt Churches of old, you might eaſily have ſeen your error, in not diſtinguiſhing the power gran<g ref="char:EOLhyphen"/>ted by <hi>Chriſt</hi> unto the <hi>Church,</hi> and exerciſed by them in the pureſt times, from that boundleſſe (the true Seminary of all the troubles mentioned by you) power uſurped by <hi>Prelats</hi> and <hi>Popes</hi> after<g ref="char:EOLhyphen"/>wards: the not obſerving hereof led you into that error, which now you vent: their Government was a plant in the Church, which Ieſus Chriſt will never acknowledge to be planted by his Heavenly Father. Had you conſulted with Maſter <hi>Tho: Coleman</hi> on the Covenant, he would have told you, that the <hi>Prelaticall Government was moſt wicked and Anti-chriſtian, that it is not poſ<g ref="char:EOLhyphen"/>ſible it ſhould be convenient for a State or Kingdom;</hi> therefore it is no marvell if it cauſed ſtirres in the world: if you believe the exer<g ref="char:EOLhyphen"/>ciſe of Eccleſiaſticall Cenſures in the Church to be ſuch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſpeak it out plainly, and prove it if you be able. All the while the Church exerciſed no other power then what Chriſt granted, then was the Church free from the Domineering power you ſpeak of: for when any queſtion did ariſe fit to be judged or conſidered of, it vvas heard and debated <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Presbytery; for<note place="margin">Omni actu ad me perlato pla<g ref="char:EOLhyphen"/>cuit contrahi presbyterium, &amp;c. Cypr. Ep. 46.</note> then they thought with <hi>Cyprian,</hi> that <hi>Singulis paſtoribus portio gregis eſt adſcripta, quam unuſquiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> regat &amp; gubernet, ratio nem ſui actus Domino redditurus;</hi> Epiſt. 55. So went they on, each taking care of their own flock: If any queſtion did ariſe which was too hard for them to determine; then they called in the help
+<pb n="20" facs="tcp:113271:11"/> of their Siſter Churches: The ſame Author gives the rea<g ref="char:EOLhyphen"/>ſon of it.</p>
+            <p>
+               <hi>Therefore are there many Prieſts cemented with mutuall a<g ref="char:EOLhyphen"/>greement</hi>
+               <note place="margin">
+                  <hi>Idcirco copio<g ref="char:EOLhyphen"/>ſum cst corpus Sacerdotum concordiae mu<g ref="char:EOLhyphen"/>tuae glutino, atque unitatis vinculo copulae<g ref="char:EOLhyphen"/>tum, ut ſe quiſ<g ref="char:EOLhyphen"/>quis ex Collegio noſtro haeres in facerc, &amp; gre<g ref="char:EOLhyphen"/>gem Chriſti ſucerare tenta<g ref="char:EOLhyphen"/>verit, ſubve<g ref="char:EOLhyphen"/>niant taeteri, et quaſi Paſtores utiler &amp; miſe<g ref="char:EOLhyphen"/>ricordes, oves Dominicas in gregem colli<g ref="char:EOLhyphen"/>gent.</hi> Cypt. Ep. 67.</note> 
+               <hi>and the bond of unity, that if any of our Colledge ſhould ſtrive to raiſe up an Hereſie, or to rend the flock of Chriſt, the reſt ſhould help, and as profitable and mercifull Shepherds, ſhould gather in the Lords ſheep into his flock.</hi> The Church then went on in a friendly agreement and ſweet amity, no wiſe enſnared with ambi<g ref="char:EOLhyphen"/>tion, or ſeeking to domineer one over another; for though the Churches (as <hi>Baſill</hi> ſpeaks of them that went before him) <hi>Were many, yet were they all guided by one Rule, then were the people united together, and their Paſtors were endued with that mutual love one towards another, that one did uſe another as a Maſter or a guide.</hi> All this while their faithfull adhering to the exerciſe of the power granted to them by Chriſt, gave them no occaſion of <hi>raiſing tumults, of plunging the Chriſtian world in confuſion and blood.</hi> But afterwards when by the bounty and liberality of Chriſtian Princes and others, Church-men grew great in the world, laying aſide their main work (the Preaching of the Goſpel) to which they were called, and gave themſelves to affect worldly greatneſſe, and to wait upon ſecular affairs; this gave them occaſion to ſtrive to exalt themſelves one above another: Thereupon followed diviſiors<note place="margin">Ep. ad. <hi>Na<g ref="char:EOLhyphen"/>cocaeſar.</hi>
+               </note> in the <hi>Church,</hi> and all the ſtirres that troubled the world after<g ref="char:EOLhyphen"/>wards. Then came <hi>Prelats</hi> and <hi>Popes</hi> to act their part, each of them ſtriving to ingroſſe all power in his own hands; then did they ſtrive to exalt their own Iuriſdiction, deſerting the Govern<g ref="char:EOLhyphen"/>ment eſtabliſhed in the Church. Theſe things cannot be unknown to a man of your parts, which makes me to wonder that you ſhould faſten theſe foul conſequences upon the true Government of the Church, by which they never were produced: any <hi>Sophiſter</hi> can tell you your fallacy herein, that you reaſon a <hi>Non cauſa pro cauſa,</hi> and therefore I cannot excuſe you for your injuſt inſinuations, whereby you ſeek to faſten no ſmall hatred upon Church-Go<g ref="char:EOLhyphen"/>vernment, which, with your favour; is your groſſe miſtaking of the thing in queſtion.</p>
+            <p>Then you adde all that you have ſaid of this exorbitant power of <hi>Prelats</hi> and <hi>Popes, was authority abuſed.</hi> No Sir, the queſtion now, is not whether they abuſed their Authority or not? for no man doubts thereof, but the preſent queſtion is, whether that Au<g ref="char:EOLhyphen"/>thority, which they pretended, was that Church Government we
+<pb n="21" facs="tcp:113271:11"/> now ſpeak of, and which you oppoſe? This I deny, and leave it to you to prove who hath mentioned it: Their Authority was uſurped, and inconſiſtent with that which by Goſpel Charter was granted to the Church, as before hath been explained. Again, all the a<g ref="char:EOLhyphen"/>buſe of their Authority, you fancy to have been in the tranſcendent greatneſſe, or unſufferable height of it; and therefore you put this Queſtion, <hi>Who ſhall ſet bounds to it to prevent the like?</hi> I An<g ref="char:EOLhyphen"/>ſwer, Authority deviſed by man, can hardly be ſtinted by man, ſo ambitious is man in the purſuit thereof: It is ſaid of <hi>Romulus,</hi> that he would appoint no bounds to the Fields of the People, that ſo they might go as far as ever they could, taking from others and adding to their own, that by this means they might believe, that whatſoe<g ref="char:EOLhyphen"/>ver they could poſſeſſe themſelves of by their arms, it was their own: Thus men ſet no bounds to their ambitions deſignes, but cloſe with all occaſions that may enlarge their own <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uriſdiction.</p>
+            <p>You ask, <hi>Who ſhall bound this Authority to prevent the like?</hi> Who ſhall bound it, but he who is the Author of it? Was there ever any Court of Judicature appointed by men, which was not bounded by ſuch as did authorize it at the firſt? And can we think that <hi>Jeſus Chriſt, the wiſdom of his Father,</hi> ſhall appoint a Government for his houſe, and not preſcribe limits to it beyond which the Gover<g ref="char:EOLhyphen"/>nours of it muſt not go?</p>
+            <p>Let me follow you, and adde further, it was not Government that bred <hi>Enmity between the Clergy and Laity,</hi> (as you ſuppoſe) as appears by the Amity and Concord in the Church amongſt all her Members, whileſt the right Government took place: But when they left that, and followed their own devices, uſurping power to themſelves, which Chriſt never granted to them, then came they to be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bittered one againſt another.</p>
+            <p>Laſtly, you come to crave of the <hi>Honorable Houſe of Parliament,</hi> two things: 1. <hi>That you may have Learning. 2. Competency; and Government you leave to them.</hi> For advancing of Learning, you de<g ref="char:EOLhyphen"/>ſire, <hi>That Schools of Divinity may be ſet up,</hi> &amp;c. Is not right Go<g ref="char:EOLhyphen"/>vernment a means of furthering Learning? When <hi>Iulian</hi> would have ſuppreſſed, not only Church Government, but the Church it<note place="margin">Soz. 5. 17.</note> ſelf; he indeed denied Chriſtians means of Learning for their Children: But Church-Government did never abridge them there<g ref="char:EOLhyphen"/>of, but rather ſought to eſtabliſh it, and encourage them therein: A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Paul</hi> did exhort <hi>Timothy,</hi> 1 Tim. 4. 13.</p>
+            <p>As for that you require that we may have in our <hi>Claſſicall mee<g ref="char:EOLhyphen"/>tings:</hi>
+               <pb n="22" facs="tcp:113271:12"/> Had you taken notice what is done in theſe meetings in in o<g ref="char:EOLhyphen"/>ther Churches, (where they are through Gods bleſſing well ſettled) then you might have ſeen all you mention, there more fully act<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then here you relate them, and ſo you might have forborn what here you ſeem to deſire in this.</p>
+            <p>I ſay nothing to the competency which you crave for a comfort<g ref="char:EOLhyphen"/>able ſubſiſtence: Church Government will be no enemy to that, knowing that ſuch as Preach the Goſpel ſhould live thereon: For who goeth a warfare at any time at his own coſt, 1 <hi>Cor.</hi> 9. 7.</p>
+            <p>In your fourth Rule you tell us, <hi>A Chriſtian Magiſtrate is a Governour in the Church;</hi> And why, <hi>Christ,</hi> you ſay, <hi>hath placed Governments in the Church,</hi> 1 Cor. 12. 28. Nay, <hi>You finds no inſti<g ref="char:EOLhyphen"/>tution of other Governments beſides Magiſtrates.</hi>
+            </p>
+            <p>Concerning the Civill Magiſtrates power mentioned by you<g ref="char:punc">▪</g>
+            </p>
+            <p>Firſt, your expreſſion is ambiguous, when you ſay, <hi>The Chriſtian Magiſtrate is a Governour in the Church:</hi> if you mean he hath a ſtroak in the Government of the Church<g ref="char:punc">▪</g> Its granted, be<g ref="char:EOLhyphen"/>cauſe, as Godwilling, we ſhall hear by and by, God hath raiſed up Chriſtian Magiſtrates to be <hi>Nurſing Fathers</hi> to his Church, which<note place="margin">Iſa. 49. 23.</note> they do when they ſee that Government exerciſed, which he hath appointed for the well ordering of his Church, though it be not managed by the Magiſtrates immediate hand; and in this reſpect <hi>they ought to manage their office under and for Chriſt,</hi> as you ſay<g ref="char:punc">▪</g> But if you mean that there are none, by whom the Diſcipline of the Church is to be exerciſed, but by the Magiſtrate, that (as I conceive) is your miſtake. Truly, here I cannot but wonder that you (who ſtand <hi>to have the Scriptures ſpeak expreſly, and to have inſtitutions appear inſtitutions, that all may bow,</hi>) ſhould herein aver what you ſay, and yet bring forth no expreſſe teſtimony of Scripture to con<g ref="char:EOLhyphen"/>firm your judgement: Nor yet mention any expreſſe inſtitution to make good your opinion: The place which you have wreſted to ground it on, ſhall afterwards be tryed.</p>
+            <p>Secondly, You ſay, <hi>A Chriſtian Magiſtrate is a Governour in the Church:</hi> Yet you are not ignorant how many ages paſt, before the Church had any Chriſtian Magiſtrates members of it; and can it be thought, that God would have his Church all that while with<g ref="char:EOLhyphen"/>out a Governour, becauſe there was not a Chriſtian Magiſtrate to ſupply that place?</p>
+            <p>Thirdly, in as much as the Apoſtle would not have the Church
+<pb n="23" facs="tcp:113271:12"/> to bring Queſtions about their <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> before Heathen Judges; I wonder why any ſhould think them onely fit to Iudge and deter<g ref="char:EOLhyphen"/>mine<note place="margin">1 Cor. 6.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>But to come nearer to the Queſtion in hand: For the clearing of the Truth therein, I deſire you to conſider:</p>
+            <p n="1">1. What God hath expreſſed in Scripture, to be due to the cal<g ref="char:EOLhyphen"/>ling of the Civill Magiſtrate.</p>
+            <p n="2">2. What the Church hath ever willingly afforded thereunto.</p>
+            <p n="3">3. What the Chriſtian Magiſtrates have done, in and about the Government of the Church?</p>
+            <p>The opening of truth in theſe ſeverall branches, will make clear the Queſtion in hand, that all may ſee, whether the Magiſtrate be the ſole Governour in the Church?</p>
+            <p>For the firſt, God hath taught his Church, that all reſpect and obedience (which is conſiſtent with obedience due to himſelf) is due to the Honorable calling of the Magiſtrate: Yea, ſo exact is the Lord herein, that he will have no ſoul (<hi>i. e.</hi> no perſon) exemp<g ref="char:EOLhyphen"/>ted from the ſame: Where <hi>Chryſoſtom</hi> ſayes, <hi>That neither Prophet</hi>
+               <note place="margin">Rom. 13. 1, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>nor Evangeliſt is free from that ſubjection, neither is Religion pre<g ref="char:EOLhyphen"/>judiced thereby.</hi> 2. The Lord Commands, <hi>That Prayers and Sup<g ref="char:EOLhyphen"/>plications</hi>
+               <note place="margin">1 Tim. 2. 1, 2. Rom. 13. 7.</note> 
+               <hi>be offered up for Magiſtrates.</hi> 3. That <hi>Tribute, Cuſtome, Honour and Fear</hi> be given to them: There was <hi>Bread:</hi> that is, maintenance given to the Rulers, <hi>Nehem.</hi> 5. 18. 4. As their ho<g ref="char:EOLhyphen"/>nour was to be upheld, ſo their perſons and lives to be ſecured and defended, 2 <hi>Sam.</hi> 18. 3. &amp;c. All theſe things and more, are by Di<g ref="char:EOLhyphen"/>vine Authority to be given to that Honorable calling of the Ma<g ref="char:EOLhyphen"/>giſtrate.</p>
+            <p>Secondly, In the performance hereof, Gods Church, neither Ancient nor Modern, hath ever been wanting. As for the Apoſto<g ref="char:EOLhyphen"/>licall Church, what they were to perform towards the Magiſtrate may be read in the ſeverall inſtances preſſed upon them by the A<g ref="char:EOLhyphen"/>poſtles,<note place="margin">
+                  <hi>Colimue impe<g ref="char:EOLhyphen"/>ratorem ſie, quo<g ref="char:EOLhyphen"/>niodo &amp; nobis licet, &amp; expe<g ref="char:EOLhyphen"/>dit, ut hominem á Deo ſecundum, &amp; quicquid eſt á Deo conſe<g ref="char:EOLhyphen"/>cutum, ſolo Deo minorum.</hi> Tert. lib. ad ſcapu<g ref="char:EOLhyphen"/>lam.</note> already quoted in the former branch: For the ſucceeding Churches, (before that hideous Monſter of Popiſh Supremacy ſtar<g ref="char:EOLhyphen"/>ted up) let <hi>Tertullian</hi> ſpeak for all: Did not the Church in his dayes freely teſtifie their opinion of that calling, though then exe<g ref="char:EOLhyphen"/>cuted by Heathens: Yet did they honour the Emperour ſo far as was lawfull for them, they acknowledged him, as being next under God the Supream Power on Earth.</p>
+            <p>Amongſt Modern Divines, there is a full harmony in their opi<g ref="char:EOLhyphen"/>nion herein with the Ancient Church; witneſſe their ſeverall con<g ref="char:EOLhyphen"/>feſſions,
+<pb n="24" facs="tcp:113271:13"/> in which they mention the Magiſtrates office, they con<g ref="char:EOLhyphen"/>feſſe <hi>Religionis curam in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>primis pertiner<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ad Magiſtratum ſa<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>:</hi> They conceive the care of Religion in the firſt place belong<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Withall, they adde, how he may diſcharge that duty; when in the<note place="margin">
+                  <hi>i Serviunt Reges <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>errae Chriſto eges ferendo pro Chriſto.</hi> Auguſt. ep. 48.</note> fear of God he maintains the publick Peace, furthers the publiſhing of the Truth, prevents by his Authority the ſpreading of Error &amp;c. They further tell us, That Magiſtrates ought to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ule their Subjects, that their Common-wealths may be as Sanctuaries, or ſafe har<g ref="char:EOLhyphen"/>bours for the Church.</p>
+            <p>They have gone farther, (as may be ſeen in the former Confeſ<g ref="char:EOLhyphen"/>ſions) and ſet forth the difference between the Civill and Eccleſi<g ref="char:EOLhyphen"/>aſticall Government, wherein they have adhered to the holy Scriptures. The Magiſtrate his power is over the outward ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to keep that within due obedience; to this end, that <hi>all may live peaceably and quietly one with another:</hi> But the Church of God is<note place="margin">1 Tim. 2. 1. 2.</note> all her Government, ſeeks to maintain a communion amongſt her members, in holineſſe, that the Doctrine of our Saviour may be a<g ref="char:EOLhyphen"/>dorned, and they mutually build up themſelves in their holy Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th.</p>
+            <p>Secondly, The Civill Government hath a principall reſpect to the outward eſtates of men; but the Government of the Church doth principally aim at the right ordering of the inward man, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bring that to due obedience unto God. Whileſt <hi>Tertullian</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pounds that place, <hi>Give. unto Caeſar, the things which are Caſari<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note place="margin">Matth. 22. 21. <hi>Ex ea parte quae ad hanc vitam pertinet, opertet not eſſe ſubditos potestatibus</hi> i. e. <hi>hominibus res human as cum aliquo honore adminiſtranti<g ref="char:EOLhyphen"/>bus: Ex illa verò parte, quá credimu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Deo es in regnum ejus vocamur, non nor oporiet eſſe ſubdit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t cui<g ref="char:EOLhyphen"/>quam hominum.</hi> Auguſt. Prop. 72. in Rom. Heb. 13. 17.</note> He ſayes, <hi>Caeſari quidem pecuniam tuam reddas<g ref="char:punc">▪</g> Deo tem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ipſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> alioquin quid erit Dei, ſi omnia Caeſaris?</hi> He would have <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> give their money to Caeſar, and themſelves to unto God; otherwiſe what ſhall the Lord have, if Caeſar have all?</hi> Eccleſiaſticall Govern<g ref="char:EOLhyphen"/>ment, doth eſpecially reſpect the right ordering of the heart, that it may give that obedience unto God, which is due unto him. To this purpoſe ſpeaketh <hi>Auguſtine: In the things which appertain to this life we muſt be ſubject to powers, that is, to men Honorably admi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtring humane affaires: But in the things whereby we are taught to believe in God, and whereby we are called to his Kingdom, we muſt be in ſubjection to no man:</hi> Thus theſe holy men teach us, that the one Government watcheth over the body, and the bodily eſtate; but the other over the ſoul: And they that manage this Government, muſt (according to the Scriptures) <hi>ſo watch, as they that muſt give account thereof to God.</hi>
+            </p>
+            <p>Thirdly, They tell us the Magiſtrate is ber<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſted with the Tempo<g ref="char:EOLhyphen"/>rall Sword, in this life to honour and reward ſuch as do well: or
+<pb n="25" facs="tcp:113271:13"/> to terrifie and puniſh ſuch as do amiſſe, either againſt the firſt or ſecond Table; but the Sword of Church Government is Spirituall, <hi>Eph.</hi> 6. 17. which ſhe uſeth both in the defence of her Children, and juſt offence of her Enemies.</p>
+            <p>Laſtly, They tell us, it is not the Civill Magiſtrates part to exerciſe the Government of the Church, but to ſee that it be fulfilled and exerciſed aright by thoſe upon whom God hath layd it, as <hi>Conſtan<g ref="char:EOLhyphen"/>tino, Theodoſius, Arcadius, Marcianus, &amp;c.</hi> have done.</p>
+            <p>Theſe Pious Emperours did not with <hi>Vzziah</hi> adventure upon that to which they were not called, 2 <hi>Chron.</hi> 26. 16. But they fol<g ref="char:EOLhyphen"/>lowed the practiſe of worthy <hi>Ezechiah,</hi> who firſt commanded the Levites and Prieſts to fulfill the duties of their places, 2 <hi>Chron.</hi> 29. 5. 27. Then he commanded the People to fulfill what God requi<g ref="char:EOLhyphen"/>red of them, 2 <hi>Chron.</hi> 30. 1. And in ſo doing, he is ſaid to cleave to the Lord, and keep his Commandments, 2 <hi>King.</hi> 18. 6.</p>
+            <p>Sir, you ſee what Gods Church in all ages according to the Scriptures, hath held concerning the Civill Magiſtrate; yet none of them tell us what you hold out, that <hi>the Government of the Church is by God divelved on the Magiſtrate.</hi> If you can finde that either in the Scriptures<g ref="char:punc">▪</g> or warrantable records of the Church, I beſeech you bring it forth, and let the world ſee you are not alone in venting of this new Divinity, to which the Chriſtian world hath been a ſtranger for ſo many hundred yeeres.</p>
+            <p>Laſtly, for the full clearing of this truth, to all who are willing to receive the truth: I deſire it may be taken notice of, whether the Chriſtian Magiſtrate<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have challenged Church Government, as a worke proper unto their place? If Ieſus Chriſt have divolved it upon that calling, why then ſhould not Chriſtian Magiſtrates have owned ſo much, and challenged their right therein? which we reade not that they did: We reade indeed of many pious Em<g ref="char:EOLhyphen"/>perours, to whom the welfare of the Church was dear, and whoſe care of the Government of the Church appeared many wayes; They<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Euſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b dovit. Conſtant. 424.</hi>
+               </note> ſaw that the officers inſtituted by Chriſt in the Church, ſhould at<g ref="char:EOLhyphen"/>tend their places in Governing of the ſame, yet they never took upon them the worke of Government it ſelfe; that famous ſpeech which fell from <hi>Conſtantine</hi> the Great, in the preſence of divers Biſhops is well known, <hi>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t quidem intra templum, ego autem extra templum a Die <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onſtitutu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſum Epiſcopus<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> His meaning was, that God had appointed him to ſee them fulfill the work to which God had called them unto in his Church, his Imperiall place bound him
+<pb n="26" facs="tcp:113271:14"/> to ſee that done by them; but not to fulfill it himſelfe<g ref="char:punc">▪</g> For he clearly diſtinguiſhes between the adminiſtration of the affaires (<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) within and without the Church. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was far from him: He kept himſelf where he was, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, where God had ſet him.</p>
+            <p>Secondly, we reade that when the Church was troubled with<note place="margin">
+                  <hi>Imperatorum manu, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> epiſco<g ref="char:EOLhyphen"/>porum confilio beretici repri<g ref="char:EOLhyphen"/>mebantur.</hi> Gr. Naz.</note> any unruly Member, that would not ſubmit himſelfe to Her Go<g ref="char:EOLhyphen"/>vernment; ſuch by the power and authority of the Magiſtrate were reduced to order: For <hi>by the Imperiall power, and Counſels of Biſhops, heretick<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s have been ſuppreſſed:</hi> As <hi>Arius</hi> was baniſhed by <hi>Conſtant. M.</hi>
+            </p>
+            <p>Thirdly, we find further that when a queſtion hath had much debate in the Church, and yet was brought to no finall concluſion, the Emperour heard the cauſe debated, and ſo put an end unto the ſame, as appears in the caſe of <hi>Caecilian</hi> and his adverſaries; which being twice heard in Epiſcopall Synods (the paries not reſting in their reſolutions) at length it was heard and determined before the Emperour; but what did he therein? onely hearing the cauſe fully diſcuſſed, he made ſuch as were refractory, give way unto the truth, but he did not determine it himſelfe.</p>
+            <p>Fourthly, Emperours were ſo far from challenging any Power in Eccleſiaſticall Government, as proper to their places, that when it was exerciſed upon themſelves by Church Officers, they willing<g ref="char:EOLhyphen"/>ly ſubmitted to it: Let that memorable inſtance of <hi>Theodoſius</hi> wit<g ref="char:EOLhyphen"/>neſſe it. It is ſtoried of him, that having cauſed in his fury 7000. <hi>Theſſalonians</hi> to be ſlaughtered, afterwards comming to the Church of <hi>Millain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Ambroſe</hi> goeth forth to meet him, and after<note place="margin">T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eod, 5. 17.</note> a long ſpeech denies to admit him; yea bound him with that hea<g ref="char:EOLhyphen"/>vy ſentence of Excommunication, with which he ſtood bound for eight moneths. This godly Emperour: did not tell <hi>Ambroſe</hi> he had no power to do it, He pleaded not that it did belong to his Impe<g ref="char:EOLhyphen"/>riall Crowne, to determine who ſhould be ſhut out, or admitted into the Churche nay rather, he acknowledged to <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſinus</hi> (a prin<g ref="char:EOLhyphen"/>cipall Officer of his Court) the equity of the ſentence, he could tell<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> him: <hi>He kn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w well</hi> (that is, <hi>Ambroſe</hi> of whom he is ſpeaking) <hi>what was the Office of Prieſts, and what was proper unto Kings.</hi>
+            </p>
+            <p>Doth it not appear by that memorable paſſage, that that Chri<g ref="char:EOLhyphen"/>ſtian Emperour was not of your mind, to think the Government of the Church was his let, as you ſuppoſe? No, he durſt not aſſume that to himſelfe, which you affectionately ſtrive to lodge in them,
+<pb n="27" facs="tcp:113271:14"/> who never ſought it, but your bolt is ſoone ſhot; and forward you are to grant that to the Magiſtrate, which Chriſtian Magiſtrates never owned, nor challenged as their due: I beſeech you if they had a Divine right unto it, why did they not exerciſe it? We have heard that what they did (as the Religious Kings of old, <hi>David, J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>hoſaphat, Ez<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kiah,</hi> &amp;c.) they were carefull to ſee Church Govern<g ref="char:EOLhyphen"/>ment exerciſed by ſuch as were appointed thereunto by the Lord; If any were diſobedient, they drew forth their authority againſt them, to make them ſtoope unto it, which gave occaſion to the Biſhops (when they humbly ſued to <hi>Arcadius</hi> to have <hi>Iohn</hi> bani<g ref="char:EOLhyphen"/>ſhed) to ſay, <hi>Eccleſiaſticall and Civill affaires, or duties, differ.</hi>
+               <note place="margin">Niceph. 13. 20.</note> The care of the one, they ſay, is commended to the Emperor, the ad<g ref="char:EOLhyphen"/>miniſtration of the other to Church Officers.</p>
+            <p>May not all this now obſerved from the Scripture, and read in the conſtant practiſe of Chriſtian Magiſtrates, let you ſee, that Gods Church hath ever given the Magiſtrate that wherewith God hath honoured his place, which was his due; and that the Magiſtrate ceaſt to require more. Their care was to move in the ſphere where<g ref="char:EOLhyphen"/>in God had placed them, neither would they go beyond it, in ſtretching their authority to do that, whereunto they were not cal<g ref="char:EOLhyphen"/>led of the Lord.</p>
+            <p>Now to your conſtruction of Governments mentioned, 1 <hi>Cor.</hi> 12. 28. wee'll briefly examine what you ſay herein, and that is one<g ref="char:EOLhyphen"/>ly this, <hi>Chriſt hath placed Governments in his Church, and you find<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no inſtitution of other Governments beſides Magiſtrates; of Magi<g ref="char:EOLhyphen"/>ſtrates you doe,</hi> Rom. 13. 1. 2.</p>
+            <p>Sir, that Chriſt hath placed Governments in his Church, with the Scriptures affirming it, I fully agree: As alſo, that there are Civill Magiſtrates, to whom obedience is to be yielded by all, I likewiſe do agree; but that there are no other Governments in the Church, but the Civill Magiſtrate, I cannot aſſent to that aſſertion; Nay, I conceive your inference from that Text, 1 <hi>Cor.</hi> 12. 28. (which Magiſterially you lay downe, without the leaſt ſhew of prooſe) where Governments are mentioned, therefore the <hi>Civill Magi<g ref="char:EOLhyphen"/>ſtrate muſt be underſtood;</hi> it is an inconſequence, and to me of no more validity then his was, who ſaid, that <hi>Tenterton ſteeple was the cauſe of Goodwin Sands;</hi> becauſe theſe Sands were firſt diſco<g ref="char:EOLhyphen"/>vered, when the ſtructure of the ſteeple was firſt begunne.</p>
+            <p>Its very probable to me, that you do expound this Scripture, juſt as a Divine (well knowne to you) once preaching at the ta<g ref="char:EOLhyphen"/>king
+<pb n="28" facs="tcp:113271:15"/> of the Covenant, did expound <hi>Cant.</hi> 6. 4. where he brings from a <hi>Rabbi,</hi> a rotten expoſition: Which was ſo improbable, th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> himſelfe ſayes of it, <hi>he doth not deliver it as the true ſence of the place; yet it did not diſlike him, becauſe it ſeemed pretty:</hi> Or you do herein as he did, who when he preached, that <hi>Hezechiah was the firſt man that ever was ſicke in the world; and did recover;</hi> being aſ<g ref="char:EOLhyphen"/>ked if he beleeved that Iewiſh tradition, anſwered, he neither be<g ref="char:EOLhyphen"/>leeved, nor queſtioned it. I beleeve that you in your expoſition of this Scripture do the like, you do no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deliver that which you think is the true ſence of the place, onely it pleaſed you, and you inconſi<g ref="char:EOLhyphen"/>derately vented it. For who ſees not that it is an inconſequence<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt hath appointed Governments, therefore theſe Governments muſt be underſtood of the Civill Magiſtrate, that conſequence can<g ref="char:EOLhyphen"/>not be inferred on theſe premiſes, the Text duly conſidered will free it ſelfe of that conſtruction of Governments, which you bring.</p>
+            <p>That we may cleerly ſee it, ſet us conſider the ſcope of the p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Cor.</hi> 12. 28. amongſt other diſorders which had crept <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Church of <hi>Corinth,</hi> (all which the Apoſtle labours to reforme) this was one in their publick meetings, the abuſe of their gifts, (with which the Church did much abound, 1 <hi>Cor.</hi> 1. 5.) this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e labours to remove, by ſetting before them the author of theſe gifts, even the holy Spirit of God, by whom they were diſpoſed to the ſeverall Members of the Church, to edifie the Church withall And laſtly, he ſets forth of all theſe gifts which is the moſt excel<g ref="char:EOLhyphen"/>lent and uſefull to the Church; all this he <hi rend="sup">l</hi> doth, becauſe as ſome excelled in theſe gifts, ſo others were grieved that came ſhort of their fellow Members in the ſame; upon this occaſion he informe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them about theſe gifts, which he cals ſpirituall, 1 <hi>Cor.</hi> 12. 1. Be<g ref="char:EOLhyphen"/>cauſe they were wrought by the ſpirit: and firſt, he mentions the ſeverall <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> gifts where with the holy Spirit had bleſſed that Church; then he mentions the Officers upon whom theſe gifts are beſtowed, <hi>ver.</hi> 28. for the edification of the Church: Severall ſorts of theſe Officers are reckoned up, and here amongſt them, <hi>Govern<g ref="char:EOLhyphen"/>ments</hi> are mentioned, which cannot be underſtood of Civill Ma<g ref="char:EOLhyphen"/>giſtrates, becauſe the Apoſtle is ſpeaking there of ſuch Officers is were indued with ſpirituall gifts for the edification of the Church in their publick Aſſemblies, the abuſe of which gifts he is labouring to reforme; and can you upon any warrantable ground affirme, that the Civill Magiſtrate was to exerciſe his Office in their
+<pb n="29" facs="tcp:113271:15"/> publike Aſſemblies? its true, the Church exerciſed the corrective<note place="margin">
+                  <hi>Tert.</hi> ap. cap. 39</note> part of their Government in their publick meetings; but what is that to the Civill Magiſtrate.</p>
+            <p>Amongſt the ſeverall Officers of the Church, in three ſeverall places (as we have touched before) mention is made of ſome that were intereſſed in Government, and are diſtinguiſhed from Teachers, <hi>Rom. 12. 8. 1. Cor. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 28. 1 Tim.</hi> 5. 17. in the firſt, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, A Ruler, in the next <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Governments; in the laſt <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that rule well, who are diſtinguiſhed from ſuch as labour in the word and Doctrine.</p>
+            <p>Shall I tell you what have been thought of theſe: One ſaith,<note place="margin">
+                  <hi>Gubernationes ſunt carnis ca<g ref="char:EOLhyphen"/>ſtigationes</hi> Greg. Naz. Orat. 7.</note> 
+               <hi>they are the chaſtiſemerts of the fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh<g ref="char:punc">▪</g>
+               </hi> And what is that I beſeech you, but the wholeſome Government we ſpeak of, and for which we plead? whileſt that prudent men obſerving the lives of the ſe<g ref="char:EOLhyphen"/>verall Members of the Church, and finding any to give way to the unruly deſires of their fleſh, by admonition did chaſtiſe them, or bring them under further Eccleſiaſticall cenſure, that they may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame the fleſh: This conſtruction is anſwerable to that of <hi>Origen,</hi>
+               <note place="margin">Lib. 3 contra. Celſum.</note> who tells us, <hi>there were ſome <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, appointed to enquire after the lives of ſuch as came under their Government, to keep off ſuch as did not, that which did beſeem them that profeſſed Religion, eſpecially ſuch as walked in uncleanneſſe:</hi> Did not ſuch labour to chaſtiſe the fleſh, whileſt they endeavoured the juſt reſtraint of the unfruitfull work thereof. <hi>Theodoret,</hi> he calls theſe Governments, Rulers of the Church, which he diſtinguiſheth from Teachers; theſe Greek Fa<g ref="char:EOLhyphen"/>thers never dreamed of the Civill Magiſtrate in that place: <hi>Am<g ref="char:EOLhyphen"/>broſe</hi> on the place ſaith, <hi>Governments are ſuch as teach men by ſpi<g ref="char:EOLhyphen"/>rituall</hi>
+               <note place="margin">Gubernationes ſunt qui ſpiri<g ref="char:EOLhyphen"/>talibus retina<g ref="char:EOLhyphen"/>culis hominibus documento ſunt.</note> 
+               <hi>reſtraints:</hi> All which lets ſee that in their <hi>conſtruction, Go<g ref="char:EOLhyphen"/>vernments</hi> were ſuch, as by the rod of Diſcipline chaſtiſed ſuch as waxed wanton, or were unruly in their lives: which gave occaſion to <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rimaſius</hi> to ſay, <hi>Gubernationes, qui ſciuni ſingulas gube<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>are;</hi> theſe were prudent and grave men, choſen to aſſiſt the Paſtor in<note place="margin">
+                  <hi>Primaſ.</hi> in loc.</note> watching over the lives of the flock; ſo was that place conſtrued of old to which late in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>preters alſo agree; therefore I ſay no more but this: I finde that the word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is uſed by the Gre<g ref="char:EOLhyphen"/>cians for one that is wiſe in Councell, ſo it is four times uſed by the Septuagint in the <hi>Proverbs,</hi> as <hi>Prov. 1. 5. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a man of underſtanding ſhall attain wiſdom,</hi> Prov. 11. 14.<note place="margin">
+                  <hi>Prov.</hi> 1. 5. &amp; 11. 14. &amp; 20. 18. &amp; 24. 6.</note> 
+               <hi>Where no Counſell is, the people fall, where many Counſells are, there is health:</hi> that which is called <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the former part of the
+<pb n="30" facs="tcp:113271:16"/> proverb in the latter end is called <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, many counſells, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Prov.</hi> 20. 18. &amp; 24. 6. In all which places the word ſignifies a pru<g ref="char:EOLhyphen"/>dent or wiſe way of Governing: Now then comparing the uſe of the word in the Language of the Grecians with that of the Apoſtle, may we not from thence conclude, that there was in Gods Church a wiſe or prudent way of Governing, diſtinct from the Civill Go<g ref="char:EOLhyphen"/>vernment, of which Officers ſomewhat heretofore hath been ſpo<g ref="char:EOLhyphen"/>ken in your ſecond Rule.</p>
+            <p>As for the Magiſtracy mentioned, <hi>Rom.</hi> 13. 1. we agree with you therein; what you would infer from the three laſt verſes of <hi>Eph. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. (which you deſire all to conſider</hi>) that may make for your purpoſe I know not; and therefore will ſtay no longer upon it: and ſo much for your Rules or Eſſayes for agreement.</p>
+            <p>Now I come to ſpeak of that which ſeemed to you to be the one<g ref="char:EOLhyphen"/>ly hinderance of union in the Aſſembly, which you mentioned in the latter part of your firſt Rule; where you ſpeak <hi>of two parties who came byaſed into the Aſſembly, the one with a Congregational <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gagement, the other with a Nationall determination.</hi>
+            </p>
+            <p>Here you only take notice of two parties in the Aſſembly, and were all the reſt Cyphars? In what rank or number do you place your ſelf? Well, as for the one party upon whom you hang the <hi>byas of a Congregationall Ingagement:</hi> you ſpeak much to their<note place="margin">Pag. 27.</note> commendation; yet it ſeems to me that you have daſht, in this <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſure, all that praiſe you gave unto them: Can men worthy of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for their graces, of honour for their abilities, be men, whom their bare ſingular opinion will byas from the truth? Surely if you be<g ref="char:EOLhyphen"/>lieve that they would be ſo eaſily carried aſide, notwithſtanding their ingagement by Solemn Proteſtation, you cannot believe (what ever you ſeem to ſay) that they are indeed men worthy ſuch praiſes: but becauſe they are of age and able to ſpeak for themſelves, I leave it to their wiſdom to Apologize for themſelves, and return you an Anſwer to your unjuſt challenge of them.</p>
+            <p>And as for the other party wronged by your <hi>Byas,</hi> becauſe they are ſtrangers, and came voluntary to aſſiſt the furtherance of the great work now in hand (whoſe modeſty will not give them leave to ſpeak in their own juſt defence) I ſhall on their behalfe adde a word.</p>
+            <p>Sir, You charge the Honourable &amp; Reverend <hi>Commiſſioners of the Church of Scotland, for comming byaſed into the Aſſembly, with a Nationall determination, being for the</hi> jus Divinum <hi>of the Presby<g ref="char:EOLhyphen"/>teriall
+<pb n="31" facs="tcp:113271:16"/> Governement:</hi> This you ſay <hi>was a hinderance alſo to union in the Aſſembly.</hi>
+            </p>
+            <p>That they who have deſerved ſo well, ſhould heare ill, from ſuch as are not acquainted with their learning or moderation, is neither new nor ſtrange: but with what face could you a Member of the Aſſembly, charge this upon them? Who could not but know how they have alwayes demeaned themſelves in the Aſſembly, and what Honorable mention the Aſſembly had upon all occaſions made them, and what Teſtimony they gave unto them for their uſefulnes in the Aſſembly, and their moderation in all their debates.</p>
+            <p>Have you forgotten theſe expreſſions in a Letter ſent from the Aſſembly, to the Generall Aſſembly of the Church of <hi>Scotland,</hi> dated <hi>Ianuary</hi> 6. 1644. <q rend="inline">For our better progreſſe herein, (<hi>viz.</hi> in finding out a forme of Church Government,) we have with all reſpect conſidered the ſeverall Papers of your Honourable and Reverend Commiſſioners touching this head, and doe<g ref="char:punc">▪</g> with all thankfulneſſe acknowledge the great zeale, judgement, and wiſedome expreſſed therein, as alſo the excellent aſſiſtance, and great furtherance of your Reverend Commiſſioners in this great worke.</q>
+            </p>
+            <q>Againe in the ſame Letter, the imployment of your Reverend Commiſſioners here, hath been ſo managed by them, as deſerves many thankes, and all Honourable acknowledgement, not onely from us, but from you alſo.</q>
+            <q>Againe in the ſame Letter, the long experience we have had of the great ſufficiency, integrity and uſefulneſſe of them all, in the great worke of Chriſt, our common Lord and Maſter, infor<g ref="char:EOLhyphen"/>ceth us to be earneſt ſuitors for their continuance, for the per<g ref="char:EOLhyphen"/>fecting of that worke which yet remaines.</q>
+            <p>And thoſe expreſſions in another Letter to the ſaid Generall Aſſembly, dated <hi>May</hi> 6. 1645. ſpeaking of the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners, <q rend="inline">To whoſe indefatigable labours, and judicious aſſiſtance, not only the Aſſembly and the whole Church and Kingdome of <hi>England,</hi> but yours alſo, and the reſt of the Churches of God, do owe very much.</q>
+            </p>
+            <p>Againe in the ſame Letter, taking notice of a paſſage in a Letter from the Generall Aſſembly. <q rend="inline">The Aſſembly ſayes they expreſſe ſo much wiſedome, moderation, and tenderneſſe of affection, in ſo holding forth their owne judgement, as not to condemn ours, nor to impoſe upon us in the leaſt degree, no more then we upon
+<pb n="32" facs="tcp:113271:17"/> them, theſe words are added, Herein you have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> refreſhed us, and honoured your ſelves, thereby putting to ſilence the ignorance of fooliſh men<g ref="char:punc">▪</g> and ſhaming the common Ene<g ref="char:EOLhyphen"/>mies of our Reformation and Peace, who unjuſtly traduce you, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> too tenacious of whatſoever you hold or practiſe, and will part with nothing, but rather expect from others a perfect comming up to you in every particular; which albeit we never found nor belie<g ref="char:EOLhyphen"/>ved, yet we have now by this declaration a further ground where<g ref="char:EOLhyphen"/>on to erect a more publike and full vindication of your Chriſtian candor, &amp; moderation before the whole world, upon all occaſions.</q>
+            </p>
+            <p>Theſe things I have expreſt in the Aſſemblies words, that the world may ſee how you deal both with them and the Aſſembly<g ref="char:punc">▪</g> And from all theſe paſſiages, what is to be inferred let the Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der judge: The Aſſembly acknowledge their Zeal, Iudgement, wiſdom and moderation expreſſed in their carriage, the great aſſiſtance they had from them, in their indeſatigable labours, for which the whole Church both in <hi>England</hi> and <hi>Scotland</hi> owes much unto them: Nay more, ſaith not the Aſſembly, that they did not ſo hold out their own judgements, as to condemne ours, and they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought no more to impoſe any thing upon us, then we upon them<g ref="char:punc">▪</g> All which and more <hi>r<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ndis verbis,</hi> is affirmed in the Letters<g ref="char:punc">▪</g> Now let the impartiall and judicious Reader ſpeak, if a Nationall deter<g ref="char:EOLhyphen"/>mination did by as them in their concurrence with the Aſſembly: You ſay it did, and the Aſſembly denyes it.</p>
+            <p>Though this might be ſufficient to wipe off that unjuſt aſperſion ſo unworthily caſt upon them by your ſelf, a Member of the ſaid Aſſembly, preſent at all theſe debates, and aſſenting to them, or at leaſt not diſſenting from them: Yet to make it further appear<g ref="char:punc">▪</g> that this your bold and uncharitable cenſure, delivered<g ref="char:punc">▪</g> with ſo much confidence, is notoriouſly falſe, let their conſtant cariage in the Aſ<g ref="char:EOLhyphen"/>ſembly ſpeak, and I am content your ſelf in your ſecond and more adviſed thoughts ſhall be the judge.</p>
+            <p>I appeal unto you, whether they have not often profeſſed their readineſſe to Reform themſelves <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s well as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, according to the Word of God, and according to the Covenant, not to ingage u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o receive their <hi>Diſciplin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> be<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſe determined already by their Church; but to endeavour the Reformation of Religion in the Church of <hi>England</hi> and <hi>Ir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land,</hi> in Doctrine, Worſhip, Diſcipline and Go<g ref="char:EOLhyphen"/>vernment, according to the Word of God, and the Example of the beſt Reformed Churches, and to bring (not us to them) but all the
+<pb n="33" facs="tcp:113271:17"/> Churches in the three Kingdoms to the neereſt Conjunction and Uniformity.</p>
+            <p>Beſides their frequent expreſſions this way, let their Paper pre<g ref="char:EOLhyphen"/>ſented to the Aſſembly, <hi>Novemb.</hi> 10. 1643. ſpeak for them in theſe words; <q rend="inline">We be ſo far from preſuming to propoſe the Re<g ref="char:EOLhyphen"/>formation of Religion in the Kirck of <hi>Scotland,</hi> for a Rule or pa<g ref="char:EOLhyphen"/>tern of Reformation in Religion in the Kirck of <hi>England,</hi> that we are moſt willing to hear and learn from the Word of God (which is the infallible, and muſt be the common Rule to both) what needeth to be further Reformed there; and are very confident that the ſame with all thankfulneſſe and obedience would be re<g ref="char:EOLhyphen"/>ceived and imbraced by the generall Aſſembly of that Kirck.</q>
+            </p>
+            <p>Secondly, you cannot but know, that as the Aſſembly alwayes waved the Diſpute of the <hi>jus Divinum,</hi> in thoſe points that are controverted, in moſt of their Votes rather determining what may be, then what muſt be: So none were more forward in this then the ſaid Commiſſioners.</p>
+            <p>Thirdly, I appeal unto you, whether upon all occaſions they did not declare themſelves (none more) zealous in the pro<g ref="char:EOLhyphen"/>moting of any thing that might tend to Peace and accomodation: For the promoting whereof, their grave and prudent adviſe, counſell, and their Chriſtian and Brotherly condeſcention (as oc<g ref="char:EOLhyphen"/>caſion was offered) hath made them very uſefull in the Aſſembly, and deſervedly honored by them.</p>
+            <p>Fourthly, You cannot deny, but that the Aſſembly was ingaged both according to the Covenant, and to ſeverall Orders of the Ho<g ref="char:EOLhyphen"/>norable Houſes, to have the Reformed Churches (and ſurely, the Church of <hi>Scotland</hi> will be by all, not byaſed with a prejudicate opinion againſt them, acknowledged to be one) in their eye; And yet, I again appeal to you, whether the Commiſſioners in all their debates, did not rather endeavour by their Arguments from Scrip<g ref="char:EOLhyphen"/>ture and Reaſon, which did take hold on their Conſciences to confirm the Propoſitions in debate, then to impoſe any thing upon the Aſſembly, from the bare Authority of their Church? Nay, did you ever hear them ſo much as offer to hold forth the Authority or Practiſe of their Church, as an Argument whereby to perſwade to any thing?</p>
+            <p>Theſe things I thought good to offer to your ſecond thoughts to chew upon: And if all this be granted (which I am confident you cannot deny) you have good reaſon to be ſorry (to uſe your
+<pb n="34" facs="tcp:113271:18"/> own words in your Epiſtle) <hi>that you ſhould give offence:</hi> Yet I can<g ref="char:punc">▪</g> not but tell you, it is but a poore amends to complement with them in your Epiſtle, and ſo deeply to charge them in your book<g ref="char:punc">▪</g> in han<g ref="char:EOLhyphen"/>ging your by as on them, who runne ſo faire to the marke<g ref="char:punc">▪</g>
+            </p>
+            <p>How you have dealt with the Aſſembly<g ref="char:punc">▪</g> comes now in the laſt place to be inquired into.</p>
+            <p>I confeſſe I have heard you ſay, that you have not in any paſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of your Sermon, croſſed any of the Votes of the Aſſembly formeth paſt, and ſent up unto the Parliament; but when I did peruſe the Votes, and compare them with divers paſſages in your Sermon, I could not but wonder at your confidence in this, and know not what to infer from thence, but only this: Surely then either<g ref="char:punc">▪</g> you did not well underſtand what your ſelf had written, or elſe were ſtrangely miſtaken in the ſence of the Aſſembly: but let the Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der judge.</p>
+            <p>If I underſtand you aright, you deny Church Government per<g ref="char:EOLhyphen"/>formed by Church Officers, affirming that you ſee not an inſtitu<g ref="char:EOLhyphen"/>tion, nor any one act of Government in the whole Bible perfor<g ref="char:EOLhyphen"/>med, (<hi>viz.</hi> by any Church Officer) ſetting up the Chriſtian Magi<g ref="char:EOLhyphen"/>ſtrate as the onely Church Governour, and that <hi>jure Divine:</hi> And therefore expounding the Governments which Chriſt hath placed in his Church, 1 <hi>Cor.</hi> 12. 28. By that of Magiſtrates, <hi>Rom.</hi> 13. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Then you do not onely deny the Ruling Elder to be an inſtituted<g ref="char:punc">▪</g> Officer, but alſo take away the power of Ruling from the Miniſter.</p>
+            <p>I pray you therefore for my ſatisfaction, and the ſatisfaction of many others, who are much unſatisfied in this particular, Reconcils theſe your opinions and the ſeverall Votes of the Aſſembly<g ref="char:punc">▪</g> wherein the cont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ary to all theſe aſſertions is plainly aſſur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed; as may be ob<g ref="char:EOLhyphen"/>ſerved in the ſeverall Votes mentioned before.</p>
+            <p>You do indeed crave in your Epiſtle, <hi>A latitude for your judge<g ref="char:EOLhyphen"/>ment:</hi> It is not denyed unto you; but are you bound in Conſcience to hold out your difference of judgement unto the <hi>Parliament?</hi> If ſo, you cannot be ignorant what courſe was preſcribed to the members of the Aſſembly, in <hi>caſe of diſſent in any point, you ſhould have entred your diſſent and brought in your Reaſons:</hi> And then I doubt not but you ſhould have received abundant ſatisfaction<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> What ſhould put you upon this courſe I ſee not, except your un<g ref="char:EOLhyphen"/>dervaluing of the Advice and judgement of the Aſſembly<g ref="char:punc">▪</g> or the o<g ref="char:EOLhyphen"/>ver-weening conceit of your own ſufficiency, that in a work which your ſelf acknowledge, <hi>doth require the deepeſt head, and the greatest
+<pb n="35" facs="tcp:113271:18"/> abilities:</hi> you ſhould think your ſelf more fit to interpoſe your advice then the whole<g ref="char:punc">▪</g> Aſſembly.</p>
+            <p>If your advice had been only additionall of ſome thing omitted by the Aſſembly, or in ſome things of leſſer moment, differing from the advice of the Aſſembly, it might have been the better born: But when you ſhall as much as in you lyes, endeavour to under<g ref="char:EOLhyphen"/>mine the very foundations, and deſtroy the whole<g ref="char:punc">▪</g> Fabrick of all Eccleſiaſticall Government, by ſubverting the Pillars of it<g ref="char:punc">▪</g> this cannot but by ſober men be judged a boldneſſe, that none but your ſelf would have been guilty of.</p>
+            <p>Or if your advice had been backed with Reaſons that might have been convincing, we ſhould have thanked you for your light: But when you take liberty to diſſent, not only from the Aſſembly here, but from all well Reformed Churches, without producing the leaſt ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dow of proof; And ſo oppoſe your own private judgement to the Reſolutions and Determinations of the Aſſembly, and all other Churches both Ancient and Modern: thinking it Confutation e<g ref="char:EOLhyphen"/>nough of their Scripture proofs to tell the world, <hi>that they take not h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld on your Conſcience:</hi> Who can but blame you for your pride herein, as if <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>ipſe dixit,</hi> were ſufficient to bear out whatſoever ſo great a <hi>Rabbi</hi> ſai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h?</p>
+            <p>Sir, Though the advice of the Aſſembly did not take hold upon your Conſcience; yet your Covenant ſhould: Which you did not onely take your ſelf, but incouraged others thereunto in your Sermon, Preached and publiſhed by Command of the Honorable Houſe of Commons: <hi>You did lift up your hand unto the moſt high God and Swear, To endeavour the Reformation of Religion in the Kingdoms of</hi> England <hi>and</hi> Ireland, <hi>in Doctrine, Worſhip, Diſcipline, and Government, according to the Word of God, and example of the beſt Reformed Churches, and to bring the Churches of God in the three Kingdoms to the neareſt Conjunction and <g ref="char:V">Ʋ</g>niformity in Reli<g ref="char:EOLhyphen"/>gion, Confeſſion of Faith, Form of Church Gouernment, Directory for Worſhip and Catechizing, that we and our Poſterity after us, may as Brethren live in Faith and Love, and the Lord may delight to dwell in the midſt of us, &amp;c.</hi> But in this New-Modell of Government of yours, you have rather endeavoured to hinder this bleſſed work, and to ſtir up Authority to ſuppreſſe it: For according to your ad<g ref="char:EOLhyphen"/>vice, Church Government by Eccleſiaſticall Officers (as it is gene<g ref="char:EOLhyphen"/>rally followed in the beſt Reformed Churches) ſhould not be Re<g ref="char:EOLhyphen"/>formed but aboliſhed.</p>
+            <pb n="36" facs="tcp:113271:19"/>
+            <p>Did you not covenan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to endeavour the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Schiſm yet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>how you will acquit your ſelf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom one of the greater Schiſmes and rents from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all the of Chriſt I doe no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet ſee, when you would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtroy that Church government, which they doe<g ref="char:punc">▪</g> all acknowledge and ſubmit unto and would introduce in the roome of it another in the civill Magiſtrate<g ref="char:punc">▪</g> which Chriſts Church did ever yet acknowledge, nor did <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver any Chriſtian Magiſtrate aſſume unto himſelfe.</p>
+            <p>In fine, though you ſlight our Siſter Churches, I dare no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> though you at your pleaſure <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt off that government which Chriſts Church hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever embraced, and faſten all the government there<g ref="char:EOLhyphen"/>of<g ref="char:punc">▪</g> upon the Magiſtrate: Give me leave with admiration of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> boldneſſe, and ſelfe confidence, to conclude with the judgement<note place="margin">
+                  <hi>Quid obſerva<g ref="char:EOLhyphen"/>bim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, quid cli<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us? non <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſ<g ref="char:EOLhyphen"/>ſumus reſpuere conſuctudinem quam damnare non poſſumus, utpote non ex<g ref="char:EOLhyphen"/>traniam, quia non extraneo<g ref="char:EOLhyphen"/>rum, quibus, ſcilicet, com<g ref="char:EOLhyphen"/>municamus jus pacis &amp; nomen frat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ita<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s.</hi> Tert. de Ve<g ref="char:EOLhyphen"/>landis Virgi<g ref="char:EOLhyphen"/>nil. Calv. in Am<g ref="char:punc">▪</g> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>;</note> of two grave Authors: The firſt is, <hi>Tertullian; what ſhall<g ref="char:punc">▪</g> w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> follow, or what ſhall we c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe? we cannot reject that cuſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e we cannot condemne<g ref="char:punc">▪</g> it is not ſtrange, ſeeing it comes not from ſtran<g ref="char:EOLhyphen"/>gers, but from them with whom we are ſinked in piece, and to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we give the name of Breth<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>:</hi> he durſt not condemne the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtome, to whom he gave the n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of Brethren, and the hand of fellowſhip, yet you dare, I and oppoſe them: The Author is learned <hi>Calvi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> (whoſe judgement in the Expoſition of Scriptur<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath ever by judicious men) who ſayes <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey are inconſiderate men who give to the Civill Magiſtrate the power of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll things.</hi>
+            </p>
+            <p>Now in what ranke are you to be placed in, who cut your your ſelfe<g ref="char:punc">▪</g> off from all the Churches with whom you profeſſe an a<g ref="char:EOLhyphen"/>greement? Shall I ſay to you as <hi>Conſtantine</hi> ſaid to <hi>Areſiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vatian, Provide you a ladd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r by which you may god to heaven <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</hi> Seeing you have no minde to goe hand in hand with your ſiſter Churche<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in government, but put off all that work to the Civill Magiſtrate, may you not be r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oule of thoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nconſi<g ref="char:EOLhyphen"/>derate men, who diſtinguiſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> between that Civill and Ecc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>aſticall function? yet know at length, it is good <hi>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pere ad ſobri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m;</hi> this I wiſh to you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> commit you<g ref="char:punc">▪</g> to the Lord.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
